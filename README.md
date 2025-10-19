@@ -64,15 +64,15 @@ Hello, I'm Hsinyau, I'm working hard to become a full-stack engineer. It's nice 
 **Last updated blog**
 
 <!-- BLOG-POST-LIST:START -->
-- 🚀 [周报 #5 - 好久不见的碎碎念](https://hsinyau.com/posts/weekly-review-5) 
+- 🚀 [近期碎片 - 在起落里生长](https://hsinyau.com/posts/growing-through-ups-and-downs) 
 
-- 🌊 [一不小心又过了好多周](https://hsinyau.com/posts/oops-weeks-flew-by) 
+- 🌊 [周报 #5 - 好久不见的碎碎念](https://hsinyau.com/posts/weekly-review-5) 
 
-- 👺 [周报 #3 - 生活切片 - 喜忧往昔杂谈](https://hsinyau.com/posts/weekly-review-3) 
+- 👺 [一不小心又过了好多周](https://hsinyau.com/posts/oops-weeks-flew-by) 
 
-- 🪜 [周报 #2 - 年味、乡愁与留守的童年](https://hsinyau.com/posts/weekly-review-2) 
+- 🪜 [周报 #3 - 生活切片 - 喜忧往昔杂谈](https://hsinyau.com/posts/weekly-review-3) 
 
-- 🤖 [周报 #1 - 回顾、探索与生活随感](https://hsinyau.com/posts/weekly-review-1) 
+- 🤖 [周报 #2 - 年味、乡愁与留守的童年](https://hsinyau.com/posts/weekly-review-2) 
 
-- 🤠 [2024 · 素锦流年，绮梦新添](https://hsinyau.com/posts/2024-year-end-summary) 
+- 🤠 [周报 #1 - 回顾、探索与生活随感](https://hsinyau.com/posts/weekly-review-1) 
 <!-- BLOG-POST-LIST:END -->
