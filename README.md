@@ -30,21 +30,7 @@ export default async function hsinyau(): Promise<{
 }
 ```
 
-**Can you find me?**
-
-<p>
-  <a href="https://github.com/hsinyau" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  </a> 
-  <a href="https://www.instagram.com/hsinyau_zz" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/instagram-fb00bb.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> 
-  </a>
-  <a href="https://hsinyau.com" target="_blank">
-    <img alt="疏影横斜" src='https://img.shields.io/badge/疏影横斜-c40852.svg?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAqVJREFUOE91k11IFFEUx8/VUSfddBOTKW1LfTCtzB4WJBXHIhhwTSPCKJA2eugDKytI+2CVvqTCHqRAEPyAnjTqQWwQa0dCtCRdiz6MWEtIpgwdV1evru7EubbbKts83Xvn3N85//M/l8D/P9uqX9XBQknQQ0Ls1mwLdY6NCj8Xp6FwR656r6OF13U9f3V8MIDtWv7RrMqDJ6TFpUUHpXOqIWqtdOdJg3zT/rgPAFZUEhRQI1nFMkupGJitrr1FqZAblaAAQog9LynDGJcgaOuBp5ujYnkEYAUI4UK5TAR8d0/QcaD87x+qsXvknYaSsAKbmLyzuPbYJS01NnHFJR10GQEECJODINzPuKflkvrrguIcekYIIbo12yKX5hSAOTGVBZIY/luoh2zxeD1qWEiYgJfWSOkw2/oWSDiX+cs1Id/oaILGnnYJAXbnrTYaHx0r+TVHhDk8k5pKnw+yywaLWSXRBgHmPawCXxVCRRHPJNwtOp11Zt8hBhjtdygplSUwVdYsDr/qZ8GpuWaIazsHn8/WKyZzJmvui/5ueX9zVR9zAau4Kh6hZVIJoGUh6YK80PVemOsdZoDwTfEQkbsNsALU//rjABS1VLO58NuIvRi83CAnbTAJkXvTYaF3BHTXjMoSRBsEblcC0J6vMPDlg7rnUbmk6/py8r+SxDRT8oO+i/VsG7oErFlLHMg6nQeOi5D0hWVL8byg9rxDcQ6VA4DiA9iO5xRm1R2+8K+RAEAnp5iN/LqYFeeBQ+UHpJmSi1+eqtUiI6OMPr/ffBqSxz1uWpCxuxhBaPHsrFt72NlKfWPtlwAAeYSQqrHbT3FcweXSjFtrrBquO0/e17abUoy43njlgEgIafJ6vc2BEph2bGTA/Cu+14cuAYD/bfgaiLF/AAVnIuLS0yWvAAAAAElFTkSuQmCC&logoColor=white' />
-  </a>
-</p>
-
-**Last updated blog**
+## Last updated blog
 
 <!-- BLOG-POST-LIST:START -->
 - 🚀 [近期碎片 - 在起落里生长](https://hsinyau.com/posts/growing-through-ups-and-downs) 
@@ -59,3 +45,10 @@ export default async function hsinyau(): Promise<{
 
 - 🤠 [周报 #1 - 回顾、探索与生活随感](https://hsinyau.com/posts/weekly-review-1) 
 <!-- BLOG-POST-LIST:END -->
+
+## Can you find me?
+
+[![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/hsinyau)
+[![Bluesky](https://img.shields.io/badge/Bluesky-%2322A7F2.svg?&style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/hsinyau.com)
+[![Instagram](https://img.shields.io/badge/instagram-fb00bb.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hsinyau_zz)
+[![Website](https://img.shields.io/badge/Website-c40852.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://hsinyau.com)
