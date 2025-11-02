@@ -6,46 +6,29 @@
   </div>
 </div>
 
-Hello, I'm Hsinyau, I'm working hard to become a full-stack engineer. It's nice to meet you.
+```ts
+export default async function hsinyau(): Promise<{ 
+  role: string; 
+  aspiration: string; 
+  manifest: Map<string, string>;
+}> {
+  const role = 'Front-end Developer (CV Engineer)';
+  const aspiration = 'Full-stack Engineer';
 
-**Web Developer**
+  const manifest = new Map<string, string>([
+    ["Langs",     "TypeScript, Golang"],
+    ["Frontend",  "Vue, Nuxt.js, Astro"],
+    ["Backend",   "Node.js, Hono, Nitro, PostgreSQL, Redis"],
+    ["DevOps",    "Docker, GitHub Actions"],
+    ["System",    "Fedora, ArchLinux, Windows"],
+    ["Tools",     "VSCode, Zed, Ghostty, Figma, Adobe Photoshop, CapCut"],
+    ["Learning",  "Golang, Rust"],
+    ["Away",      "Next.js, Express, MongoDB..."]
+  ]);
 
-<p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-f15b29?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css3" src="https://img.shields.io/badge/-CSS3-1775bb?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-fcb040?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img alt="pnpm" src="https://img.shields.io/badge/-PNPM-CB3837?style=flat-square&logo=pnpm&logoColor=white" />
-  <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4b32c3?style=flat-square&logo=eslint&logoColor=white" />
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img alt="Vite 2" src="https://img.shields.io/badge/-Vite-81A3F9?style=flat-square&logo=vite&logoColor=white" />
-  <img alt="Vue 3" src="https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
-  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/-Postman-ff6c37?style=flat-square&logo=postman&logoColor=white" />
-</p>
-
-**Backend Developer (maybe)**
-
-<p>
-  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-3e6e93?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-4d5964?style=flat-square&logo=express&logoColor=white" />
-  <img alt="Hono" src="https://img.shields.io/badge/-Hono-ff9859?style=flat-square&logo=hono&logoColor=white" />
-  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-</p>
-
-**DevOps**
-
-<p>
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2a84f5?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-DB652A?style=flat-square&logo=ubuntu&logoColor=white" />
-</p>
+  return { role, aspiration, manifest };
+}
+```
 
 **Can you find me?**
 
