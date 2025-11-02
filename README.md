@@ -1,9 +1,7 @@
 # 𝐻𝑠𝑖𝑛𝑦𝑎𝑢 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=Hsinyau.readme) [![wakatime](https://wakatime.com/badge/user/893c8e97-1b52-4df0-9ce6-6d44e435d752.svg)](https://wakatime.com/@893c8e97-1b52-4df0-9ce6-6d44e435d752)
 
 <div align="center">
-  <div>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10000&color=F76194&random=false&width=500&lines=You+make+your+own+opportunities.;Every+single+day+counts&center=true" />
-  </div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10000&color=F76194&random=false&width=500&lines=You+make+your+own+opportunities.;Every+single+day+counts&center=true" />
 </div>
 
 ```ts
@@ -48,7 +46,17 @@ export default async function hsinyau(): Promise<{
 
 ## Can you find me?
 
-[![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/hsinyau)
-[![Bluesky](https://img.shields.io/badge/Bluesky-%2322A7F2.svg?&style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/hsinyau.com)
-[![Instagram](https://img.shields.io/badge/instagram-fb00bb.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hsinyau_zz)
-[![Website](https://img.shields.io/badge/Website-c40852.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://hsinyau.com)
+<p>
+  <a href="https://github.com/hsinyau" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a> 
+  <a href="https://bsky.app/profile/hsinyau.com" target="_blank">
+    <img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-%2322A7F2.svg?&style=for-the-badge&logo=Bluesky&logoColor=white" />
+  </a> 
+  <a href="https://www.instagram.com/hsinyau_zz" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/instagram-fb00bb.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> 
+  </a>
+  <a href="https://hsinyau.com" target="_blank">
+    <img alt="Website" src='https://img.shields.io/badge/Website-c40852.svg?&style=for-the-badge&logo=rss&logoColor=white' />
+  </a>
+</p>
