@@ -5,15 +5,15 @@
 </div>
 
 ```ts
-export default async function hsinyau(): Promise<{ 
-  role: string; 
-  aspiration: string; 
+export default function hsinyau(): {
+  role: string;
+  aspiration: string;
   manifest: Map<string, string>;
-}> {
+} {
   const role = 'Front-end Developer (CV Engineer)';
   const aspiration = 'Full-stack Engineer';
 
-  const manifest: Map<string, string> = new Map<string, string>([
+  const manifest: Map<string, string> = new Map([
     ["Langs",     "TypeScript, Golang"],
     ["Frontend",  "Vue, Nuxt.js, Astro"],
     ["Backend",   "Node.js, Hono, Nitro, PostgreSQL, Redis"],
