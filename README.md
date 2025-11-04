@@ -13,7 +13,7 @@ export default async function hsinyau(): Promise<{
   const role = 'Front-end Developer (CV Engineer)';
   const aspiration = 'Full-stack Engineer';
 
-  const manifest = new Map<string, string>([
+  const manifest: Map<string, string> = new Map<string, string>([
     ["Langs",     "TypeScript, Golang"],
     ["Frontend",  "Vue, Nuxt.js, Astro"],
     ["Backend",   "Node.js, Hono, Nitro, PostgreSQL, Redis"],
