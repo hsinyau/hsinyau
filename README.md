@@ -5,7 +5,7 @@
 </div>
 
 ```ts
-export default function hsinyau(): {
+export default function hsinyau() {
   role: string;
   aspiration: string;
   manifest: Map<string, string>;
