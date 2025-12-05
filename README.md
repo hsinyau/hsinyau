@@ -1,6 +1,8 @@
-# 𝐻𝑠𝑖𝑛𝑦𝑎𝑢 🧑🏻‍💻 ![visitor-badge][visitor-badge] [![wakatime][wakatime-src]][wakatime-href]
+## 𝐻𝑠𝑖𝑛𝑦𝑎𝑢 🧑🏻‍💻 ![visitor-badge][visitor-badge] [![wakatime][wakatime-src]][wakatime-href]
 
-![typing-svg][typing-svg]
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10000&color=F76194&random=false&width=500&lines=You+make+your+own+opportunities.;Every+single+day+counts&center=true" />
+</div>
 
 ```bash
 $ id hsinyau
