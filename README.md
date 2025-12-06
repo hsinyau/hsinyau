@@ -8,25 +8,25 @@
 $ id hsinyau
 
 ┌──────────────────────────Information──────────────────────────────┐
-  Role        : Front-end Developer (CV Engineer)
-  Aspiration  : Full-stack Engineer
-󰔠  Status      : Digital Nomad
+🔥 Role        : Front-end Developer (CV Engineer)  
+🎯 Aspiration  : Full-stack Engineer  
+🌍 Status      : Digital Nomad  
 └───────────────────────────────────────────────────────────────────┘
               
 ┌────────────────────────────Developer──────────────────────────────┐
-  Langs       → TypeScript • Golang
-  Frontend    → Vue • Nuxt.js • Astro
-  Backend     → Node.js • Hono • Nitro • PostgreSQL • Redis
-󰡨  DevOps      → Docker • GitHub Actions
-  System      → Fedora • ArchLinux • Windows
-  Tools       → VSCode • Zed • Ghostty • Figma • Photoshop • CapCut
-  Learning    → Golang • Rust • Adobe Premiere
-  Away        → Next.js • Express • MongoDB ...
+💻 Langs       → TypeScript • Golang  
+🎆 Frontend    → Vue • Nuxt.js • Astro  
+🖥️ Backend     → Node.js • Hono • Nitro • PostgreSQL • Redis  
+🚀 DevOps      → Docker • GitHub Actions  
+🐧 System      → Fedora • ArchLinux • Windows  
+🛠️ Tools       → VSCode • Zed • Ghostty • Figma • Photoshop • CapCut  
+📖 Learning    → Golang • Rust • Adobe Premiere  
+❌ Away        → Next.js • Express • MongoDB ...  
 └───────────────────────────────────────────────────────────────────┘
                    
 ┌────────────────────────Uptime / UpdateAt──────────────────────────┐
-  Uptime   : 24 year
-  UpdateAt : 2025-12-06T02:01:19.751Z
+🕰️ Uptime   : 24 years  
+📅 UpdateAt : 2025-12-06T02:06:03.312Z  
 └───────────────────────────────────────────────────────────────────┘
 ```
 
