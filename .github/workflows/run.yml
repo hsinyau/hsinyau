@@ -22,6 +22,8 @@ jobs:
         run: bun install
 
       - name: Update README 
+        env: 
+          GHP_TOKEN: ${{ secrets.GHP_TOKEN }}
         run: bun index.ts
 
       - name: push change
