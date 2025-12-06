@@ -37,6 +37,10 @@ $ id hsinyau
 
 <!-- recent-post -->
 
+### Recent Stars
+
+<!-- recent-star -->
+
 <!-- ref -->
 [visitor-badge]: https://visitor-badge.laobi.icu/badge?page_id=Hsinyau.readme
 [wakatime-src]: https://wakatime.com/badge/user/893c8e97-1b52-4df0-9ce6-6d44e435d752.svg

@@ -78,10 +78,48 @@ export async function fetchWakaTime(): Promise<string> {
   }
 }
 
+export async function fetchRecentStars(): Promise<{ name: string, desc: string, url: string }[]> {
+  try {
+    const response = await fetch('https://api.github.com/users/hsinyau/starred?per_page=6', {
+      headers: {
+        'Accept': 'application/vnd.github.v3+json',
+        'User-Agent': 'hsinyau',
+        'Authorization': `Bearer ${process.env.GHP_TOKEN}`
+      }
+    });
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+    const data = await response.json();
+    return data.map((repo: any) => { return { name: repo.name, desc: repo.description, url: repo.html_url } });
+  } catch (error) {
+    console.error('未能获取最近的 Star 数据:', error);
+    return [];
+  }
+}
+
+export async function generateRecentStarsHtml(): Promise<string> {
+  const stars = await fetchRecentStars();
+  if (stars.length === 0) {
+    return '<p>未能获取最近的 Star 数据。</p>';
+  }
+  const html = stars.map(star => {
+    return `<tr>
+  <td>
+    <a href="${star.url}" target="_blank" rel="noopener noreferrer">${star.name}</a>
+  </td>
+  <td>${star.desc}</td>
+</tr>`;
+  }).join('\n');
+  return `<table>\n${html}\n</table>`;
+}
+
 export async function update(): Promise<void> {
   try {
     const html_content = await generateRecentPostsHtml();
     const waka_time = await fetchWakaTime();
+    const recent_stars = await generateRecentStarsHtml();
+    console.log('Stars:', recent_stars);
     const update_at = formatDate(Date.now());
 
     // 首次更新——从模板到 README 文件
@@ -105,6 +143,13 @@ export async function update(): Promise<void> {
       out: './README.md',
       tag: '<!-- update_at -->',
       content: update_at
+    });
+
+    await updateFile({
+      inp: './README.md',
+      out: './README.md',
+      tag: '<!-- recent-star -->',
+      content: recent_stars
     });
 
     console.log('🎆 更新 README 成功');
