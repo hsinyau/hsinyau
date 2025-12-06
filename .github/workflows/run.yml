@@ -1,4 +1,4 @@
-name: Sync WakaTime and Hitokoto
+name: Everyday
 
 on:
   schedule:
