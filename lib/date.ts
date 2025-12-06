@@ -1,28 +1,20 @@
-export function formatDate(dateString: string, type: string): string {
-  try {
-    const date = new Date(dateString);
-    if (isNaN(date.getTime())) {
-      throw new Error('Invalid date string');
-    }
+import dayjs from 'dayjs';
+import utc from 'dayjs/plugin/utc';
+import timezone from 'dayjs/plugin/timezone';
 
-    if (type === 'YYYY-MM-DD') {
-      return date.toLocaleDateString('zh-CN', {
-        year: 'numeric',
-        month: 'long',
-        day: 'numeric'
-      });
-    } else {
-      return date.toLocaleDateString('zh-CN', {
-        year: 'numeric',
-        month: 'long',
-        day: 'numeric',
-        hour: 'numeric',
-        minute: 'numeric',
-        second: 'numeric'
-      });
-    }
-  } catch (error) {
-    console.error('Error formatting date:', dateString, error);
-    return dateString;
+dayjs.extend(utc);
+dayjs.extend(timezone);
+
+export function formatDate(dateString: string | number, type?: 'YYYY-MM-DD' | string): string {
+  const date = dayjs.tz(dateString, 'Asia/Shanghai');
+
+  if (!date.isValid()) {
+    throw new Error('Invalid date string');
+  }
+
+  if (type === 'YYYY-MM-DD') {
+    return date.format('YYYY-MM-DD');
+  } else {
+    return date.format('YYYY-MM-DD HH:mm:ss');
   }
 }

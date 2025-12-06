@@ -1,6 +1,6 @@
 import { DOMParser } from '@xmldom/xmldom';
 import { formatDate, updateFile } from './lib';
-import { BLOG_RSS } from './constants';
+import { BLOG_RSS, WAKATIME_GIST } from './constants';
 
 interface BlogPost {
   title: string;
@@ -64,27 +64,49 @@ export async function generateRecentPostsHtml(): Promise<string> {
   return `<table>\n${html}\n</table>`;
 }
 
+export async function fetchWakaTime(): Promise<string> {
+  try {
+    const response = await fetch(WAKATIME_GIST);
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+    const data = await response.text();
+    return data;
+  } catch (error) {
+    console.error('未能获取 WakaTime 数据:', error);
+    return '';
+  }
+}
+
 export async function update(): Promise<void> {
   try {
-    const htmlContent = await generateRecentPostsHtml();
-    const latestUpdate = new Date().toISOString();
+    const html_content = await generateRecentPostsHtml();
+    const waka_time = await fetchWakaTime();
+    const update_at = formatDate(Date.now());
 
     // 首次更新——从模板到 README 文件
     await updateFile({
       inp: './template.md',
       out: './README.md',
       tag: '<!-- recent-post -->',
-      content: htmlContent
+      content: html_content
     });
-    
+
     // 第二次更新 - 从 README 到 README（因为第一次更新已经修改过了）
     await updateFile({
       inp: './README.md',
       out: './README.md',
-      tag: '<!-- latest_update -->',
-      content: latestUpdate
+      tag: '<!-- wakatime -->',
+      content: waka_time
     });
-    
+
+    await updateFile({
+      inp: './README.md',
+      out: './README.md',
+      tag: '<!-- update_at -->',
+      content: update_at
+    });
+
     console.log('🎆 更新 README 成功');
   } catch (error) {
     console.error('未能更新 README.md:', error);
