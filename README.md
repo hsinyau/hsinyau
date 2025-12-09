@@ -31,7 +31,7 @@ YAML       1 hr 38 mins   ▊░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2025-12-09 09:47:26
+                      2025-12-10 03:20:48
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ YAML       1 hr 38 mins   ▊░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/jinghaihan/vue-stream-markdown" target="_blank" rel="noopener noreferrer">vue-stream-markdown</a>
+  </td>
+  <td>Streaming markdown output, Useful for text streams like LLM outputs.</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/jesseduffield/lazygit" target="_blank" rel="noopener noreferrer">lazygit</a>
   </td>
   <td>simple terminal UI for git commands</td>
@@ -108,12 +114,6 @@ YAML       1 hr 38 mins   ▊░░░░░░░░░░░░░░░░░
     <a href="https://github.com/dianprata/nuxt-shadcn-dashboard" target="_blank" rel="noopener noreferrer">nuxt-shadcn-dashboard</a>
   </td>
   <td>Template Dashboard with Nuxt 4 + Shadcn + TailwindCSS 4 </td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/666ghj/BettaFish" target="_blank" rel="noopener noreferrer">BettaFish</a>
-  </td>
-  <td>微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。</td>
 </tr>
 </table>
 
