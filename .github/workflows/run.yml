@@ -1,0 +1,37 @@
+name: Everyday
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+
+      - name: Install dependencies
+        run: bun install
+
+      - name: Update README 
+        env: 
+          GHP_TOKEN: ${{ secrets.GHP_TOKEN }}
+        run: bun index.ts
+
+      - name: push change
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add .
+          git commit -m "chore: update readme - $(date '+%Y-%m-%d %H:%M:%S')"
+          
+          git push
