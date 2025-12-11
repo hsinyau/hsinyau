@@ -31,7 +31,7 @@ YAML       1 hr 38 mins   ▊░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2025-12-10 08:46:38
+                      2025-12-11 08:47:19
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ YAML       1 hr 38 mins   ▊░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/HugoRCD/nuxt-better-auth" target="_blank" rel="noopener noreferrer">nuxt-better-auth</a>
+  </td>
+  <td>A demo of using BetterAuth with Nuxt and PostgreSQL</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/jinghaihan/vue-stream-markdown" target="_blank" rel="noopener noreferrer">vue-stream-markdown</a>
   </td>
   <td>Streaming markdown output, Useful for text streams like LLM outputs.</td>
@@ -108,12 +114,6 @@ YAML       1 hr 38 mins   ▊░░░░░░░░░░░░░░░░░
     <a href="https://github.com/bubblelabai/BubbleLab" target="_blank" rel="noopener noreferrer">BubbleLab</a>
   </td>
   <td>Open source workflow automation platform built for developers - full observability and code exportability!</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/dianprata/nuxt-shadcn-dashboard" target="_blank" rel="noopener noreferrer">nuxt-shadcn-dashboard</a>
-  </td>
-  <td>Template Dashboard with Nuxt 4 + Shadcn + TailwindCSS 4 </td>
 </tr>
 </table>
 
