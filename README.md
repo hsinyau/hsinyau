@@ -23,15 +23,15 @@ $ id hsinyau
 └───────────────────────────────────────────────────────────────────┘
 
 ┌───────────────────Weekly development breakdown────────────────────┐
-TypeScript 28 hrs 8 mins  ██████████▍░░░░░░░░░░  49.5%
-Vue.js     12 hrs 21 mins ████▌░░░░░░░░░░░░░░░░  21.7%
-Markdown   6 hrs 14 mins  ██▎░░░░░░░░░░░░░░░░░░  11.0%
-JSON       1 hr 56 mins   ▋░░░░░░░░░░░░░░░░░░░░   3.4%
-YAML       1 hr 36 mins   ▌░░░░░░░░░░░░░░░░░░░░   2.8%
+TypeScript 27 hrs 10 mins █████████▍░░░░░░░░░░░  45.1%
+Vue.js     14 hrs 10 mins ████▉░░░░░░░░░░░░░░░░  23.6%
+Markdown   6 hrs 14 mins  ██▏░░░░░░░░░░░░░░░░░░  10.4%
+JSON       3 hrs 43 mins  █▎░░░░░░░░░░░░░░░░░░░   6.2%
+CSS        1 hr 42 mins   ▌░░░░░░░░░░░░░░░░░░░░   2.8%
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2025-12-13 08:43:33
+                      2025-12-14 08:51:49
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ YAML       1 hr 36 mins   ▌░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/CorentinTh/it-tools" target="_blank" rel="noopener noreferrer">it-tools</a>
+  </td>
+  <td>Collection of handy online tools for developers, with great UX. </td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/HugoRCD/nuxt-better-auth" target="_blank" rel="noopener noreferrer">nuxt-better-auth</a>
   </td>
   <td>A demo of using BetterAuth with Nuxt and PostgreSQL</td>
@@ -108,12 +114,6 @@ YAML       1 hr 36 mins   ▌░░░░░░░░░░░░░░░░░
     <a href="https://github.com/nshen/next-cloudflare-starter" target="_blank" rel="noopener noreferrer">next-cloudflare-starter</a>
   </td>
   <td>一键部署 Next.js 到 Cloudflare Worker，无需配置，支持多环境（dev / prod）Worker 部署。| Deploy Next.js to Cloudflare Worker with one click, zero configuration required. Supports multi-environment (dev / prod) Worker deployment.</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/bubblelabai/BubbleLab" target="_blank" rel="noopener noreferrer">BubbleLab</a>
-  </td>
-  <td>Open source workflow automation platform built for developers - full observability and code exportability!</td>
 </tr>
 </table>
 
