@@ -23,15 +23,15 @@ $ id hsinyau
 └───────────────────────────────────────────────────────────────────┘
 
 ┌───────────────────Weekly development breakdown────────────────────┐
-TypeScript 24 hrs 48 mins ███████████░░░░░░░░░░  52.4%
-Vue.js     12 hrs 52 mins █████▋░░░░░░░░░░░░░░░  27.2%
-JSON       3 hrs 16 mins  █▍░░░░░░░░░░░░░░░░░░░   6.9%
-Bash       2 hrs 16 mins  █░░░░░░░░░░░░░░░░░░░░   4.8%
-CSS        1 hr 44 mins   ▊░░░░░░░░░░░░░░░░░░░░   3.7%
+TypeScript 22 hrs 31 mins ███████████▌░░░░░░░░░  54.9%
+Vue.js     12 hrs 36 mins ██████▍░░░░░░░░░░░░░░  30.7%
+JSON       2 hrs 3 mins   █░░░░░░░░░░░░░░░░░░░░   5.0%
+Bash       1 hr 18 mins   ▋░░░░░░░░░░░░░░░░░░░░   3.2%
+Git Config 48 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2025-12-18 08:43:09
+                      2025-12-19 08:47:02
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ CSS        1 hr 44 mins   ▊░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/nitrojs/nitro" target="_blank" rel="noopener noreferrer">nitro</a>
+  </td>
+  <td>Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/CorentinTh/it-tools" target="_blank" rel="noopener noreferrer">it-tools</a>
   </td>
   <td>Collection of handy online tools for developers, with great UX. </td>
@@ -108,12 +114,6 @@ CSS        1 hr 44 mins   ▊░░░░░░░░░░░░░░░░░
     <a href="https://github.com/vitejs/awesome-vite" target="_blank" rel="noopener noreferrer">awesome-vite</a>
   </td>
   <td>⚡️ A curated list of awesome things related to Vite.js</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/nshen/next-cloudflare-starter" target="_blank" rel="noopener noreferrer">next-cloudflare-starter</a>
-  </td>
-  <td>一键部署 Next.js 到 Cloudflare Worker，无需配置，支持多环境（dev / prod）Worker 部署。| Deploy Next.js to Cloudflare Worker with one click, zero configuration required. Supports multi-environment (dev / prod) Worker deployment.</td>
 </tr>
 </table>
 
