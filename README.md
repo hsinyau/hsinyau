@@ -23,15 +23,15 @@ $ id hsinyau
 └───────────────────────────────────────────────────────────────────┘
 
 ┌───────────────────Weekly development breakdown────────────────────┐
-TypeScript 22 hrs 31 mins ███████████▌░░░░░░░░░  54.9%
-Vue.js     12 hrs 36 mins ██████▍░░░░░░░░░░░░░░  30.7%
-JSON       2 hrs 3 mins   █░░░░░░░░░░░░░░░░░░░░   5.0%
-Bash       1 hr 18 mins   ▋░░░░░░░░░░░░░░░░░░░░   3.2%
-Git Config 48 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
+TypeScript 13 hrs 5 mins  █████████▌░░░░░░░░░░░  45.5%
+Vue.js     9 hrs 51 mins  ███████▏░░░░░░░░░░░░░  34.3%
+JSON       2 hrs 2 mins   █▍░░░░░░░░░░░░░░░░░░░   7.1%
+Bash       1 hr 18 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.5%
+Git Config 48 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.8%
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2025-12-19 08:47:02
+                      2025-12-20 08:43:48
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ Git Config 48 mins        ▍░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/mmarinovic/tailwindsql" target="_blank" rel="noopener noreferrer">tailwindsql</a>
+  </td>
+  <td>null</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/nitrojs/nitro" target="_blank" rel="noopener noreferrer">nitro</a>
   </td>
   <td>Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.</td>
@@ -108,12 +114,6 @@ Git Config 48 mins        ▍░░░░░░░░░░░░░░░░░
     <a href="https://github.com/jesseduffield/lazygit" target="_blank" rel="noopener noreferrer">lazygit</a>
   </td>
   <td>simple terminal UI for git commands</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/vitejs/awesome-vite" target="_blank" rel="noopener noreferrer">awesome-vite</a>
-  </td>
-  <td>⚡️ A curated list of awesome things related to Vite.js</td>
 </tr>
 </table>
 
