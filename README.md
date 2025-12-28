@@ -23,15 +23,15 @@ $ id hsinyau
 └───────────────────────────────────────────────────────────────────┘
 
 ┌───────────────────Weekly development breakdown────────────────────┐
-TypeScript 7 hrs 42 mins  ████████████▎░░░░░░░░  58.4%
-Vue.js     4 hrs 22 mins  ██████▉░░░░░░░░░░░░░░  33.1%
-JSON       29 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.8%
-Astro      13 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.8%
-Bash       9 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.2%
+TypeScript 9 hrs 52 mins  █████████▊░░░░░░░░░░░  46.8%
+Vue.js     9 hrs 45 mins  █████████▋░░░░░░░░░░░  46.3%
+JSON       31 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
+Bash       20 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
+Astro      13 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2025-12-27 08:45:39
+                      2025-12-28 08:54:23
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,18 @@ Bash       9 mins         ▏░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/abusoww/tuxmate" target="_blank" rel="noopener noreferrer">tuxmate</a>
+  </td>
+  <td>THE MISSING BULK APP INSTALLER FOR LINUX</td>
+</tr>
+<tr>
+  <td>
+    <a href="https://github.com/Rabithua/Rote" target="_blank" rel="noopener noreferrer">Rote</a>
+  </td>
+  <td>A personal note repository that looks different🤔</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/mmarinovic/tailwindsql" target="_blank" rel="noopener noreferrer">tailwindsql</a>
   </td>
   <td>null</td>
@@ -102,18 +114,6 @@ Bash       9 mins         ▏░░░░░░░░░░░░░░░░░
     <a href="https://github.com/HugoRCD/nuxt-better-auth" target="_blank" rel="noopener noreferrer">nuxt-better-auth</a>
   </td>
   <td>A demo of using BetterAuth with Nuxt and PostgreSQL</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/jinghaihan/vue-stream-markdown" target="_blank" rel="noopener noreferrer">vue-stream-markdown</a>
-  </td>
-  <td>Streaming markdown output, Useful for text streams like LLM outputs.</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/jesseduffield/lazygit" target="_blank" rel="noopener noreferrer">lazygit</a>
-  </td>
-  <td>simple terminal UI for git commands</td>
 </tr>
 </table>
 
