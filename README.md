@@ -31,7 +31,7 @@ Bash       26 mins        ▎░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2025-12-29 08:53:13
+                      2025-12-30 08:47:33
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ Bash       26 mins        ▎░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/AnmolSaini16/mapcn" target="_blank" rel="noopener noreferrer">mapcn</a>
+  </td>
+  <td>Beautiful map components. 100% Free, Zero config, one command setup.</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/abusoww/tuxmate" target="_blank" rel="noopener noreferrer">tuxmate</a>
   </td>
   <td>THE MISSING BULK APP INSTALLER FOR LINUX</td>
@@ -108,12 +114,6 @@ Bash       26 mins        ▎░░░░░░░░░░░░░░░░░
     <a href="https://github.com/CorentinTh/it-tools" target="_blank" rel="noopener noreferrer">it-tools</a>
   </td>
   <td>Collection of handy online tools for developers, with great UX. </td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/HugoRCD/nuxt-better-auth" target="_blank" rel="noopener noreferrer">nuxt-better-auth</a>
-  </td>
-  <td>A demo of using BetterAuth with Nuxt and PostgreSQL</td>
 </tr>
 </table>
 
