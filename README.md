@@ -23,15 +23,15 @@ $ id hsinyau
 └───────────────────────────────────────────────────────────────────┘
 
 ┌───────────────────Weekly development breakdown────────────────────┐
-Vue.js     13 hrs 7 mins  ██████████▌░░░░░░░░░░  50.1%
-TypeScript 11 hrs 4 mins  ████████▊░░░░░░░░░░░░  42.3%
-YAML       33 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
-JSON       31 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
-Bash       26 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
+Vue.js     16 hrs 30 mins ███████████▎░░░░░░░░░  54.0%
+TypeScript 11 hrs 50 mins ████████▏░░░░░░░░░░░░  38.7%
+JSON       41 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
+YAML       33 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.8%
+Bash       26 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2025-12-30 08:47:33
+                      2025-12-31 08:49:26
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,18 @@ Bash       26 mins        ▎░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/yusixian/moe-copy-ai" target="_blank" rel="noopener noreferrer">moe-copy-ai</a>
+  </td>
+  <td>✨ 萌萌哒的 AI 网页数据提取助手 ✨</td>
+</tr>
+<tr>
+  <td>
+    <a href="https://github.com/pranshuparmar/witr" target="_blank" rel="noopener noreferrer">witr</a>
+  </td>
+  <td>Why is this running?</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/AnmolSaini16/mapcn" target="_blank" rel="noopener noreferrer">mapcn</a>
   </td>
   <td>Beautiful map components. 100% Free, Zero config, one command setup.</td>
@@ -101,19 +113,7 @@ Bash       26 mins        ▎░░░░░░░░░░░░░░░░░
   <td>
     <a href="https://github.com/mmarinovic/tailwindsql" target="_blank" rel="noopener noreferrer">tailwindsql</a>
   </td>
-  <td>null</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/nitrojs/nitro" target="_blank" rel="noopener noreferrer">nitro</a>
-  </td>
-  <td>Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/CorentinTh/it-tools" target="_blank" rel="noopener noreferrer">it-tools</a>
-  </td>
-  <td>Collection of handy online tools for developers, with great UX. </td>
+  <td>TailwindSQL lets you write SQL queries using Tailwind-style class names.</td>
 </tr>
 </table>
 
