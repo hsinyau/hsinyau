@@ -23,21 +23,27 @@ $ id hsinyau
 └───────────────────────────────────────────────────────────────────┘
 
 ┌───────────────────Weekly development breakdown────────────────────┐
-Vue.js     16 hrs 30 mins ███████████▎░░░░░░░░░  54.0%
-TypeScript 11 hrs 50 mins ████████▏░░░░░░░░░░░░  38.7%
-JSON       41 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
-YAML       33 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.8%
-Bash       26 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
+Vue.js     13 hrs 47 mins ████████████░░░░░░░░░  57.7%
+TypeScript 7 hrs 41 mins  ██████▊░░░░░░░░░░░░░░  32.2%
+Markdown   45 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.2%
+YAML       33 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
+JSON       25 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.8%
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2025-12-31 08:49:26
+                      2026-01-01 08:55:01
 └───────────────────────────────────────────────────────────────────┘
 ```
 
 **Recent Posts**
 
 <table>
+<tr>
+  <td>
+    <a href="https://hsinyau.com/posts/2025-year-end-summary" target="_blank" rel="noopener noreferrer">2025 · 碎碎念念，岁岁年年</a>
+  </td>
+  <td>2025-12-31</td>
+</tr>
 <tr>
   <td>
     <a href="https://hsinyau.com/posts/growing-through-ups-and-downs" target="_blank" rel="noopener noreferrer">近期碎片 - 在起落里生长</a>
@@ -67,12 +73,6 @@ Bash       26 mins        ▎░░░░░░░░░░░░░░░░░
     <a href="https://hsinyau.com/posts/weekly-review-2" target="_blank" rel="noopener noreferrer">周报 #2 - 年味、乡愁与留守的童年</a>
   </td>
   <td>2025-02-05</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://hsinyau.com/posts/weekly-review-1" target="_blank" rel="noopener noreferrer">周报 #1 - 回顾、探索与生活随感</a>
-  </td>
-  <td>2025-01-26</td>
 </tr>
 </table>
 
