@@ -23,15 +23,15 @@ $ id hsinyau
 └───────────────────────────────────────────────────────────────────┘
 
 ┌───────────────────Weekly development breakdown────────────────────┐
-Vue.js     13 hrs 47 mins ████████████▏░░░░░░░░  58.1%
-TypeScript 7 hrs 40 mins  ██████▊░░░░░░░░░░░░░░  32.3%
-Markdown   52 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.7%
-YAML       33 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
-JSON       24 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
+Vue.js     14 hrs 11 mins ██████████▌░░░░░░░░░░  50.4%
+TypeScript 7 hrs 35 mins  █████▋░░░░░░░░░░░░░░░  27.0%
+Markdown   4 hrs 57 mins  ███▋░░░░░░░░░░░░░░░░░  17.6%
+YAML       33 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
+JSON       24 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-01-02 08:48:48
+                      2026-01-03 08:45:06
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,18 @@ JSON       24 mins        ▎░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/rohanprasadofficial/localflare" target="_blank" rel="noopener noreferrer">localflare</a>
+  </td>
+  <td>local cloudflare</td>
+</tr>
+<tr>
+  <td>
+    <a href="https://github.com/antvis/Infographic" target="_blank" rel="noopener noreferrer">Infographic</a>
+  </td>
+  <td>🦋 An Infographic Generation and Rendering Framework, bring words to life with AI!</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/yusixian/moe-copy-ai" target="_blank" rel="noopener noreferrer">moe-copy-ai</a>
   </td>
   <td>✨ 萌萌哒的 AI 网页数据提取助手 ✨</td>
@@ -102,18 +114,6 @@ JSON       24 mins        ▎░░░░░░░░░░░░░░░░░
     <a href="https://github.com/abusoww/tuxmate" target="_blank" rel="noopener noreferrer">tuxmate</a>
   </td>
   <td>THE MISSING BULK APP INSTALLER FOR LINUX</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/Rabithua/Rote" target="_blank" rel="noopener noreferrer">Rote</a>
-  </td>
-  <td>A personal note repository that looks different🤔</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/mmarinovic/tailwindsql" target="_blank" rel="noopener noreferrer">tailwindsql</a>
-  </td>
-  <td>TailwindSQL lets you write SQL queries using Tailwind-style class names.</td>
 </tr>
 </table>
 
