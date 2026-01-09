@@ -31,7 +31,7 @@ Bash       27 mins        █▍░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-01-08 08:48:59
+                      2026-01-09 08:49:09
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ Bash       27 mins        █▍░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/kepano/obsidian-skills" target="_blank" rel="noopener noreferrer">obsidian-skills</a>
+  </td>
+  <td>Claude Skills for Obsidian</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/rohanprasadofficial/localflare" target="_blank" rel="noopener noreferrer">localflare</a>
   </td>
   <td>local cloudflare</td>
@@ -108,12 +114,6 @@ Bash       27 mins        █▍░░░░░░░░░░░░░░░░
     <a href="https://github.com/AnmolSaini16/mapcn" target="_blank" rel="noopener noreferrer">mapcn</a>
   </td>
   <td>Beautiful map components. 100% Free, Zero config, one command setup.</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/abusoww/tuxmate" target="_blank" rel="noopener noreferrer">tuxmate</a>
-  </td>
-  <td>THE MISSING BULK APP INSTALLER FOR LINUX</td>
 </tr>
 </table>
 
