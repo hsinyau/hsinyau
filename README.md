@@ -23,58 +23,21 @@ $ id hsinyau
 └───────────────────────────────────────────────────────────────────┘
 
 ┌───────────────────Weekly development breakdown────────────────────┐
-TypeScript 3 hrs 3 mins   ██████▌░░░░░░░░░░░░░░  31.3%
-Vue.js     2 hrs 3 mins   ████▍░░░░░░░░░░░░░░░░  21.1%
-YAML       1 hr 40 mins   ███▌░░░░░░░░░░░░░░░░░  17.2%
-JSON       1 hr 5 mins    ██▎░░░░░░░░░░░░░░░░░░  11.2%
-Bash       1 hr 2 mins    ██▎░░░░░░░░░░░░░░░░░░  10.7%
+TypeScript 3 hrs 42 mins  ██████▋░░░░░░░░░░░░░░  32.1%
+Vue.js     2 hrs 56 mins  █████▎░░░░░░░░░░░░░░░  25.5%
+YAML       1 hr 40 mins   ███░░░░░░░░░░░░░░░░░░  14.5%
+JSON       1 hr 12 mins   ██▏░░░░░░░░░░░░░░░░░░  10.5%
+Bash       1 hr 2 mins    █▉░░░░░░░░░░░░░░░░░░░   9.1%
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-01-11 08:54:48
+                      2026-01-12 08:57:16
 └───────────────────────────────────────────────────────────────────┘
 ```
 
 **Recent Posts**
 
-<table>
-<tr>
-  <td>
-    <a href="https://hsinyau.com/posts/2025-year-end-summary" target="_blank" rel="noopener noreferrer">2025 · 碎碎念念，岁岁年年</a>
-  </td>
-  <td>2025-12-31</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://hsinyau.com/posts/growing-through-ups-and-downs" target="_blank" rel="noopener noreferrer">近期碎片 - 在起落里生长</a>
-  </td>
-  <td>2025-10-20</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://hsinyau.com/posts/weekly-review-5" target="_blank" rel="noopener noreferrer">周报 #5 - 好久不见的碎碎念</a>
-  </td>
-  <td>2025-07-12</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://hsinyau.com/posts/oops-weeks-flew-by" target="_blank" rel="noopener noreferrer">一不小心又过了好多周</a>
-  </td>
-  <td>2025-05-04</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://hsinyau.com/posts/weekly-review-3" target="_blank" rel="noopener noreferrer">周报 #3 - 生活切片 - 喜忧往昔杂谈</a>
-  </td>
-  <td>2025-03-02</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://hsinyau.com/posts/weekly-review-2" target="_blank" rel="noopener noreferrer">周报 #2 - 年味、乡愁与留守的童年</a>
-  </td>
-  <td>2025-02-05</td>
-</tr>
-</table>
+<p>未能获取最近的博客文章。</p>
 
 **Recent Stars**
 
