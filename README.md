@@ -23,21 +23,58 @@ $ id hsinyau
 └───────────────────────────────────────────────────────────────────┘
 
 ┌───────────────────Weekly development breakdown────────────────────┐
-TypeScript 3 hrs 42 mins  ██████▋░░░░░░░░░░░░░░  32.1%
-Vue.js     2 hrs 56 mins  █████▎░░░░░░░░░░░░░░░  25.5%
-YAML       1 hr 40 mins   ███░░░░░░░░░░░░░░░░░░  14.5%
-JSON       1 hr 12 mins   ██▏░░░░░░░░░░░░░░░░░░  10.5%
-Bash       1 hr 2 mins    █▉░░░░░░░░░░░░░░░░░░░   9.1%
+TypeScript 9 hrs 18 mins  ████████▋░░░░░░░░░░░░  41.2%
+Vue.js     6 hrs 53 mins  ██████▍░░░░░░░░░░░░░░  30.5%
+JSON       2 hrs 8 mins   █▉░░░░░░░░░░░░░░░░░░░   9.5%
+YAML       1 hr 46 mins   █▋░░░░░░░░░░░░░░░░░░░   7.9%
+Bash       1 hr 1 min     ▉░░░░░░░░░░░░░░░░░░░░   4.5%
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-01-12 08:57:16
+                      2026-01-13 08:45:27
 └───────────────────────────────────────────────────────────────────┘
 ```
 
 **Recent Posts**
 
-<p>未能获取最近的博客文章。</p>
+<table>
+<tr>
+  <td>
+    <a href="https://hsinyau.com/posts/2025-year-end-summary" target="_blank" rel="noopener noreferrer">2025 · 碎碎念念，岁岁年年</a>
+  </td>
+  <td>2025-12-31</td>
+</tr>
+<tr>
+  <td>
+    <a href="https://hsinyau.com/posts/growing-through-ups-and-downs" target="_blank" rel="noopener noreferrer">近期碎片 - 在起落里生长</a>
+  </td>
+  <td>2025-10-20</td>
+</tr>
+<tr>
+  <td>
+    <a href="https://hsinyau.com/posts/oops-weeks-flew-by" target="_blank" rel="noopener noreferrer">一不小心又过了好多周</a>
+  </td>
+  <td>2025-05-04</td>
+</tr>
+<tr>
+  <td>
+    <a href="https://hsinyau.com/posts/2024-year-end-summary" target="_blank" rel="noopener noreferrer">2024 · 素锦流年，绮梦新添</a>
+  </td>
+  <td>2024-12-27</td>
+</tr>
+<tr>
+  <td>
+    <a href="https://hsinyau.com/posts/linux-tape-archive" target="_blank" rel="noopener noreferrer">Linux 中的 Tar 打包</a>
+  </td>
+  <td>2024-01-09</td>
+</tr>
+<tr>
+  <td>
+    <a href="https://hsinyau.com/posts/2023-year-end-summary" target="_blank" rel="noopener noreferrer">2023 · 跃动的瞬间与恒久的印记</a>
+  </td>
+  <td>2023-12-31</td>
+</tr>
+</table>
 
 **Recent Stars**
 
@@ -46,7 +83,7 @@ Bash       1 hr 2 mins    █▉░░░░░░░░░░░░░░░░
   <td>
     <a href="https://github.com/kepano/obsidian-skills" target="_blank" rel="noopener noreferrer">obsidian-skills</a>
   </td>
-  <td>Claude Skills for Obsidian</td>
+  <td>Agent skills for Obsidian</td>
 </tr>
 <tr>
   <td>
