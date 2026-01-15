@@ -23,15 +23,15 @@ $ id hsinyau
 └───────────────────────────────────────────────────────────────────┘
 
 ┌───────────────────Weekly development breakdown────────────────────┐
-TypeScript 9 hrs 18 mins  ████████▋░░░░░░░░░░░░  41.2%
-Vue.js     6 hrs 53 mins  ██████▍░░░░░░░░░░░░░░  30.5%
-JSON       2 hrs 8 mins   █▉░░░░░░░░░░░░░░░░░░░   9.5%
-YAML       1 hr 46 mins   █▋░░░░░░░░░░░░░░░░░░░   7.9%
-Bash       1 hr 1 min     ▉░░░░░░░░░░░░░░░░░░░░   4.5%
+TypeScript 17 hrs 11 mins ████████▉░░░░░░░░░░░░  42.5%
+Vue.js     13 hrs 54 mins ███████▏░░░░░░░░░░░░░  34.3%
+JSON       3 hrs 53 mins  ██░░░░░░░░░░░░░░░░░░░   9.6%
+CSS        2 hrs 5 mins   █░░░░░░░░░░░░░░░░░░░░   5.2%
+YAML       1 hr 46 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.4%
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-01-14 08:52:45
+                      2026-01-15 08:47:25
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ Bash       1 hr 1 min     ▉░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/vercel-labs/agent-skills" target="_blank" rel="noopener noreferrer">agent-skills</a>
+  </td>
+  <td>null</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/kepano/obsidian-skills" target="_blank" rel="noopener noreferrer">obsidian-skills</a>
   </td>
   <td>Agent skills for Obsidian</td>
@@ -108,12 +114,6 @@ Bash       1 hr 1 min     ▉░░░░░░░░░░░░░░░░░
     <a href="https://github.com/pranshuparmar/witr" target="_blank" rel="noopener noreferrer">witr</a>
   </td>
   <td>Why is this running?</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/AnmolSaini16/mapcn" target="_blank" rel="noopener noreferrer">mapcn</a>
-  </td>
-  <td>Beautiful map components. 100% Free, Zero config, one command setup.</td>
 </tr>
 </table>
 
