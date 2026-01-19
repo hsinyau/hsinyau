@@ -23,62 +23,31 @@ $ id hsinyau
 └───────────────────────────────────────────────────────────────────┘
 
 ┌───────────────────Weekly development breakdown────────────────────┐
-TypeScript 15 hrs 49 mins ████████▉░░░░░░░░░░░░  42.4%
-Vue.js     15 hrs 37 mins ████████▊░░░░░░░░░░░░  41.8%
-JSON       3 hrs 5 mins   █▋░░░░░░░░░░░░░░░░░░░   8.3%
-CSS        1 hr 29 mins   ▊░░░░░░░░░░░░░░░░░░░░   4.0%
-Bash       26 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.2%
+Vue.js     22 hrs 15 mins ██████████▍░░░░░░░░░░  49.8%
+TypeScript 16 hrs 27 mins ███████▋░░░░░░░░░░░░░  36.8%
+JSON       3 hrs 5 mins   █▍░░░░░░░░░░░░░░░░░░░   6.9%
+CSS        1 hr 31 mins   ▋░░░░░░░░░░░░░░░░░░░░   3.4%
+Bash       26 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.0%
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-01-18 08:55:32
+                      2026-01-19 08:57:36
 └───────────────────────────────────────────────────────────────────┘
 ```
 
 **Recent Posts**
 
-<table>
-<tr>
-  <td>
-    <a href="https://hsinyau.com/posts/2025-year-end-summary" target="_blank" rel="noopener noreferrer">2025 · 碎碎念念，岁岁年年</a>
-  </td>
-  <td>2025-12-31</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://hsinyau.com/posts/growing-through-ups-and-downs" target="_blank" rel="noopener noreferrer">近期碎片 - 在起落里生长</a>
-  </td>
-  <td>2025-10-20</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://hsinyau.com/posts/oops-weeks-flew-by" target="_blank" rel="noopener noreferrer">一不小心又过了好多周</a>
-  </td>
-  <td>2025-05-04</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://hsinyau.com/posts/2024-year-end-summary" target="_blank" rel="noopener noreferrer">2024 · 素锦流年，绮梦新添</a>
-  </td>
-  <td>2024-12-27</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://hsinyau.com/posts/linux-tape-archive" target="_blank" rel="noopener noreferrer">Linux 中的 Tar 打包</a>
-  </td>
-  <td>2024-01-09</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://hsinyau.com/posts/2023-year-end-summary" target="_blank" rel="noopener noreferrer">2023 · 跃动的瞬间与恒久的印记</a>
-  </td>
-  <td>2023-12-31</td>
-</tr>
-</table>
+<p>未能获取最近的博客文章。</p>
 
 **Recent Stars**
 
 <table>
+<tr>
+  <td>
+    <a href="https://github.com/chatfire-AI/huobao-drama" target="_blank" rel="noopener noreferrer">huobao-drama</a>
+  </td>
+  <td>🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator "One Sentence to Complete Drama: Fully Automated from Script to Final Video"</td>
+</tr>
 <tr>
   <td>
     <a href="https://github.com/vercel-labs/agent-skills" target="_blank" rel="noopener noreferrer">agent-skills</a>
@@ -108,12 +77,6 @@ Bash       26 mins        ▏░░░░░░░░░░░░░░░░░
     <a href="https://github.com/yusixian/moe-copy-ai" target="_blank" rel="noopener noreferrer">moe-copy-ai</a>
   </td>
   <td>✨ 萌萌哒的 AI 网页数据提取助手 ✨</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/pranshuparmar/witr" target="_blank" rel="noopener noreferrer">witr</a>
-  </td>
-  <td>Why is this running?</td>
 </tr>
 </table>
 
