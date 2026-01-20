@@ -31,17 +31,60 @@ Bash       26 mins        ▏░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-01-19 08:57:36
+                      2026-01-20 08:49:36
 └───────────────────────────────────────────────────────────────────┘
 ```
 
 **Recent Posts**
 
-<p>未能获取最近的博客文章。</p>
+<table>
+<tr>
+  <td>
+    <a href="https://hsinyau.com/posts/2025-year-end-summary" target="_blank" rel="noopener noreferrer">2025 · 碎碎念念，岁岁年年</a>
+  </td>
+  <td>2025-12-31</td>
+</tr>
+<tr>
+  <td>
+    <a href="https://hsinyau.com/posts/growing-through-ups-and-downs" target="_blank" rel="noopener noreferrer">近期碎片 - 在起落里生长</a>
+  </td>
+  <td>2025-10-20</td>
+</tr>
+<tr>
+  <td>
+    <a href="https://hsinyau.com/posts/oops-weeks-flew-by" target="_blank" rel="noopener noreferrer">一不小心又过了好多周</a>
+  </td>
+  <td>2025-05-04</td>
+</tr>
+<tr>
+  <td>
+    <a href="https://hsinyau.com/posts/2024-year-end-summary" target="_blank" rel="noopener noreferrer">2024 · 素锦流年，绮梦新添</a>
+  </td>
+  <td>2024-12-27</td>
+</tr>
+<tr>
+  <td>
+    <a href="https://hsinyau.com/posts/linux-tape-archive" target="_blank" rel="noopener noreferrer">Linux 中的 Tar 打包</a>
+  </td>
+  <td>2024-01-09</td>
+</tr>
+<tr>
+  <td>
+    <a href="https://hsinyau.com/posts/2023-year-end-summary" target="_blank" rel="noopener noreferrer">2023 · 跃动的瞬间与恒久的印记</a>
+  </td>
+  <td>2023-12-31</td>
+</tr>
+</table>
 
 **Recent Stars**
 
 <table>
+<tr>
+  <td>
+    <a href="https://github.com/AmanVarshney01/create-better-t-stack" target="_blank" rel="noopener noreferrer">create-better-t-stack</a>
+  </td>
+  <td>A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations</td>
+</tr>
 <tr>
   <td>
     <a href="https://github.com/chatfire-AI/huobao-drama" target="_blank" rel="noopener noreferrer">huobao-drama</a>
@@ -71,12 +114,6 @@ Bash       26 mins        ▏░░░░░░░░░░░░░░░░░
     <a href="https://github.com/antvis/Infographic" target="_blank" rel="noopener noreferrer">Infographic</a>
   </td>
   <td>🦋 An Infographic Generation and Rendering Framework, bring words to life with AI!</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/yusixian/moe-copy-ai" target="_blank" rel="noopener noreferrer">moe-copy-ai</a>
-  </td>
-  <td>✨ 萌萌哒的 AI 网页数据提取助手 ✨</td>
 </tr>
 </table>
 
