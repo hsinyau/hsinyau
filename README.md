@@ -23,15 +23,15 @@ $ id hsinyau
 └───────────────────────────────────────────────────────────────────┘
 
 ┌───────────────────Weekly development breakdown────────────────────┐
-Vue.js     14 hrs 39 mins ██████████████▏░░░░░░  67.6%
-TypeScript 4 hrs 42 mins  ████▌░░░░░░░░░░░░░░░░  21.7%
-JSON       1 hr 37 mins   █▌░░░░░░░░░░░░░░░░░░░   7.5%
-CSS        19 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
-Git Config 8 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+Vue.js     11 hrs 34 mins ██████████████▍░░░░░░  68.7%
+TypeScript 3 hrs 26 mins  ████▎░░░░░░░░░░░░░░░░  20.4%
+JSON       1 hr 36 mins   ██░░░░░░░░░░░░░░░░░░░   9.6%
+CSS        4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
+YAML       4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-01-23 08:51:56
+                      2026-01-24 08:47:43
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -52,33 +52,39 @@ Git Config 8 mins         ▏░░░░░░░░░░░░░░░░░
 </tr>
 <tr>
   <td>
+    <a href="https://hsinyau.com/posts/weekly-review-5" target="_blank" rel="noopener noreferrer">周报 #5 - 好久不见的碎碎念</a>
+  </td>
+  <td>2025-07-12</td>
+</tr>
+<tr>
+  <td>
     <a href="https://hsinyau.com/posts/oops-weeks-flew-by" target="_blank" rel="noopener noreferrer">一不小心又过了好多周</a>
   </td>
   <td>2025-05-04</td>
 </tr>
 <tr>
   <td>
-    <a href="https://hsinyau.com/posts/2024-year-end-summary" target="_blank" rel="noopener noreferrer">2024 · 素锦流年，绮梦新添</a>
+    <a href="https://hsinyau.com/posts/weekly-review-3" target="_blank" rel="noopener noreferrer">周报 #3 - 生活切片 - 喜忧往昔杂谈</a>
   </td>
-  <td>2024-12-27</td>
+  <td>2025-03-02</td>
 </tr>
 <tr>
   <td>
-    <a href="https://hsinyau.com/posts/linux-tape-archive" target="_blank" rel="noopener noreferrer">Linux 中的 Tar 打包</a>
+    <a href="https://hsinyau.com/posts/weekly-review-2" target="_blank" rel="noopener noreferrer">周报 #2 - 年味、乡愁与留守的童年</a>
   </td>
-  <td>2024-01-09</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://hsinyau.com/posts/2023-year-end-summary" target="_blank" rel="noopener noreferrer">2023 · 跃动的瞬间与恒久的印记</a>
-  </td>
-  <td>2023-12-31</td>
+  <td>2025-02-05</td>
 </tr>
 </table>
 
 **Recent Stars**
 
 <table>
+<tr>
+  <td>
+    <a href="https://github.com/danielroe/npmx.dev" target="_blank" rel="noopener noreferrer">npmx.dev</a>
+  </td>
+  <td>A fast, modern browser for the npm registry for power users.</td>
+</tr>
 <tr>
   <td>
     <a href="https://github.com/AmanVarshney01/create-better-t-stack" target="_blank" rel="noopener noreferrer">create-better-t-stack</a>
@@ -108,12 +114,6 @@ Git Config 8 mins         ▏░░░░░░░░░░░░░░░░░
     <a href="https://github.com/rohanprasadofficial/localflare" target="_blank" rel="noopener noreferrer">localflare</a>
   </td>
   <td>local cloudflare</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/antvis/Infographic" target="_blank" rel="noopener noreferrer">Infographic</a>
-  </td>
-  <td>🦋 An Infographic Generation and Rendering Framework, bring words to life with AI!</td>
 </tr>
 </table>
 
