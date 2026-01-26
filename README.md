@@ -23,15 +23,15 @@ $ id hsinyau
 └───────────────────────────────────────────────────────────────────┘
 
 ┌───────────────────Weekly development breakdown────────────────────┐
-Vue.js     11 hrs 34 mins ██████████████▍░░░░░░  68.7%
-TypeScript 3 hrs 26 mins  ████▎░░░░░░░░░░░░░░░░  20.4%
-JSON       1 hr 36 mins   ██░░░░░░░░░░░░░░░░░░░   9.6%
-CSS        4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
+Vue.js     11 hrs 44 mins ███████████████▎░░░░░  72.8%
+TypeScript 2 hrs 33 mins  ███▎░░░░░░░░░░░░░░░░░  15.8%
+JSON       1 hr 34 mins   ██░░░░░░░░░░░░░░░░░░░   9.8%
+CSS        8 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
 YAML       4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-01-25 08:55:20
+                      2026-01-26 08:54:51
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,9 +81,9 @@ YAML       4 mins         ░░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
-    <a href="https://github.com/danielroe/npmx.dev" target="_blank" rel="noopener noreferrer">npmx.dev</a>
+    <a href="https://github.com/npmx-dev/npmx.dev" target="_blank" rel="noopener noreferrer">npmx.dev</a>
   </td>
-  <td>A fast, modern browser for the npm registry for power users.</td>
+  <td>a fast, modern browser for the npm registry</td>
 </tr>
 <tr>
   <td>
