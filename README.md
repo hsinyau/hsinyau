@@ -31,7 +31,7 @@ Markdown   5 mins         ▊░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-02-24 08:59:24
+                      2026-02-25 09:04:46
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ Markdown   5 mins         ▊░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/runesleo/x-reader" target="_blank" rel="noopener noreferrer">x-reader</a>
+  </td>
+  <td>Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/antfu/skills" target="_blank" rel="noopener noreferrer">skills</a>
   </td>
   <td>Anthony Fu's curated collection of agent skills.</td>
@@ -108,12 +114,6 @@ Markdown   5 mins         ▊░░░░░░░░░░░░░░░░░
     <a href="https://github.com/chatfire-AI/huobao-drama" target="_blank" rel="noopener noreferrer">huobao-drama</a>
   </td>
   <td>🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator "One Sentence to Complete Drama: Fully Automated from Script to Final Video"</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/vercel-labs/agent-skills" target="_blank" rel="noopener noreferrer">agent-skills</a>
-  </td>
-  <td>Vercel's official collection of agent skills</td>
 </tr>
 </table>
 
