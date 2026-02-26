@@ -31,7 +31,7 @@ Markdown   5 mins         ▊░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-02-25 09:04:46
+                      2026-02-26 08:58:22
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,24 @@ Markdown   5 mins         ▊░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/tldraw/tldraw" target="_blank" rel="noopener noreferrer">tldraw</a>
+  </td>
+  <td>very good whiteboard infinite canvas SDK</td>
+</tr>
+<tr>
+  <td>
+    <a href="https://github.com/blackboardsh/electrobun" target="_blank" rel="noopener noreferrer">electrobun</a>
+  </td>
+  <td>Build ultra fast, tiny, and cross-platform desktop apps with Typescript.</td>
+</tr>
+<tr>
+  <td>
+    <a href="https://github.com/cloudflare/vinext" target="_blank" rel="noopener noreferrer">vinext</a>
+  </td>
+  <td>Vite plugin that reimplements the Next.js API surface — deploy anywhere</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/runesleo/x-reader" target="_blank" rel="noopener noreferrer">x-reader</a>
   </td>
   <td>Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)</td>
@@ -96,24 +114,6 @@ Markdown   5 mins         ▊░░░░░░░░░░░░░░░░░
     <a href="https://github.com/openclaw/openclaw" target="_blank" rel="noopener noreferrer">openclaw</a>
   </td>
   <td>Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 </td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/npmx-dev/npmx.dev" target="_blank" rel="noopener noreferrer">npmx.dev</a>
-  </td>
-  <td>a fast, modern browser for the npm registry</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/AmanVarshney01/create-better-t-stack" target="_blank" rel="noopener noreferrer">create-better-t-stack</a>
-  </td>
-  <td>A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/chatfire-AI/huobao-drama" target="_blank" rel="noopener noreferrer">huobao-drama</a>
-  </td>
-  <td>🎬 火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》  Huobao Drama - An AI-Powered End-to-End Short Drama Generator "One Sentence to Complete Drama: Fully Automated from Script to Final Video"</td>
 </tr>
 </table>
 
