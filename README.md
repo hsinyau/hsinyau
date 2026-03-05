@@ -31,7 +31,7 @@ HTML       45 mins        ▊░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-03-04 08:58:23
+                      2026-03-05 09:00:47
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ HTML       45 mins        ▊░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/jihe520/social-push" target="_blank" rel="noopener noreferrer">social-push</a>
+  </td>
+  <td>🤖 AI social-media automation skill | Self-evolution workflows | AI 社交媒体自动化 skill | 自我进化工作流</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/tldraw/tldraw" target="_blank" rel="noopener noreferrer">tldraw</a>
   </td>
   <td>very good whiteboard infinite canvas SDK</td>
@@ -108,12 +114,6 @@ HTML       45 mins        ▊░░░░░░░░░░░░░░░░░
     <a href="https://github.com/antfu/skills" target="_blank" rel="noopener noreferrer">skills</a>
   </td>
   <td>Anthony Fu's curated collection of agent skills.</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/openclaw/openclaw" target="_blank" rel="noopener noreferrer">openclaw</a>
-  </td>
-  <td>Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 </td>
 </tr>
 </table>
 
