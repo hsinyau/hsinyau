@@ -31,7 +31,7 @@ Markdown   1 min          ░░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-03-08 14:49:21
+                      2026-03-09 09:01:04
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ Markdown   1 min          ░░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/1612elphi/delphitools" target="_blank" rel="noopener noreferrer">delphitools</a>
+  </td>
+  <td>Collection of tools for designers and artists</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/jihe520/social-push" target="_blank" rel="noopener noreferrer">social-push</a>
   </td>
   <td>🤖 AI social-media automation skill | Self-evolution workflows | AI 社交媒体自动化 skill | 自我进化工作流</td>
@@ -108,12 +114,6 @@ Markdown   1 min          ░░░░░░░░░░░░░░░░░░
     <a href="https://github.com/runesleo/x-reader" target="_blank" rel="noopener noreferrer">x-reader</a>
   </td>
   <td>Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/antfu/skills" target="_blank" rel="noopener noreferrer">skills</a>
-  </td>
-  <td>Anthony Fu's curated collection of agent skills.</td>
 </tr>
 </table>
 
