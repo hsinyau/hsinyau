@@ -23,15 +23,15 @@ $ id hsinyau
 └───────────────────────────────────────────────────────────────────┘
 
 ┌───────────────────Weekly development breakdown────────────────────┐
-TypeScript 8 hrs 14 mins  █████████▍░░░░░░░░░░░  44.8%
-Vue.js     5 hrs 56 mins  ██████▊░░░░░░░░░░░░░░  32.2%
-TSConfig   2 hrs 25 mins  ██▊░░░░░░░░░░░░░░░░░░  13.2%
-JSON       1 hr 13 mins   █▍░░░░░░░░░░░░░░░░░░░   6.6%
-Markdown   18 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
+TypeScript 5 hrs 54 mins  ████████▉░░░░░░░░░░░░  42.7%
+Vue.js     4 hrs 51 mins  ███████▍░░░░░░░░░░░░░  35.1%
+TSConfig   2 hrs 25 mins  ███▋░░░░░░░░░░░░░░░░░  17.5%
+JSON       20 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
+Markdown   17 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-03-11 08:56:38
+                      2026-03-12 08:53:54
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ Markdown   18 mins        ▎░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/linuz90/gists.sh" target="_blank" rel="noopener noreferrer">gists.sh</a>
+  </td>
+  <td>null</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/1612elphi/delphitools" target="_blank" rel="noopener noreferrer">delphitools</a>
   </td>
   <td>Collection of tools for designers and artists</td>
@@ -108,12 +114,6 @@ Markdown   18 mins        ▎░░░░░░░░░░░░░░░░░
     <a href="https://github.com/cloudflare/vinext" target="_blank" rel="noopener noreferrer">vinext</a>
   </td>
   <td>Vite plugin that reimplements the Next.js API surface — deploy anywhere</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/runesleo/x-reader" target="_blank" rel="noopener noreferrer">x-reader</a>
-  </td>
-  <td>Universal content reader — fetch, normalize, and digest content from 7+ platforms (WeChat, Telegram, X, YouTube, Bilibili, Xiaohongshu, RSS)</td>
 </tr>
 </table>
 
