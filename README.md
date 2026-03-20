@@ -23,15 +23,15 @@ $ id hsinyau
 └───────────────────────────────────────────────────────────────────┘
 
 ┌───────────────────Weekly development breakdown────────────────────┐
-TypeScript 2 hrs 38 mins  █████████░░░░░░░░░░░░  43.0%
-MDX        1 hr 43 mins   █████▉░░░░░░░░░░░░░░░  28.1%
-Vue.js     55 mins        ███▏░░░░░░░░░░░░░░░░░  15.0%
-Other      25 mins        █▍░░░░░░░░░░░░░░░░░░░   6.8%
-JSON       21 mins        █▏░░░░░░░░░░░░░░░░░░░   5.8%
+TypeScript 2 hrs 18 mins  ████████▊░░░░░░░░░░░░  41.8%
+MDX        1 hr 43 mins   ██████▌░░░░░░░░░░░░░░  31.3%
+Vue.js     36 mins        ██▎░░░░░░░░░░░░░░░░░░  10.9%
+Other      25 mins        █▌░░░░░░░░░░░░░░░░░░░   7.6%
+JSON       21 mins        █▎░░░░░░░░░░░░░░░░░░░   6.4%
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-03-19 09:04:06
+                      2026-03-20 09:00:32
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ JSON       21 mins        █▏░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/shuding/cobe" target="_blank" rel="noopener noreferrer">cobe</a>
+  </td>
+  <td>5kB WebGL globe lib.</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/linuz90/gists.sh" target="_blank" rel="noopener noreferrer">gists.sh</a>
   </td>
   <td>null</td>
@@ -108,12 +114,6 @@ JSON       21 mins        █▏░░░░░░░░░░░░░░░░
     <a href="https://github.com/blackboardsh/electrobun" target="_blank" rel="noopener noreferrer">electrobun</a>
   </td>
   <td>Build ultra fast, tiny, and cross-platform desktop apps with Typescript.</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/cloudflare/vinext" target="_blank" rel="noopener noreferrer">vinext</a>
-  </td>
-  <td>Vite plugin that reimplements the Next.js API surface — deploy anywhere</td>
 </tr>
 </table>
 
