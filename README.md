@@ -30,7 +30,7 @@ JSON       0 secs         ▍░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-03-23 09:05:41
+                      2026-03-24 08:57:31
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -80,6 +80,12 @@ JSON       0 secs         ▍░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/coollabsio/maxio" target="_blank" rel="noopener noreferrer">maxio</a>
+  </td>
+  <td>MaxIO, a better MinIO</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/shuding/cobe" target="_blank" rel="noopener noreferrer">cobe</a>
   </td>
   <td>5KB WebGL globe lib.</td>
@@ -107,12 +113,6 @@ JSON       0 secs         ▍░░░░░░░░░░░░░░░░░
     <a href="https://github.com/tldraw/tldraw" target="_blank" rel="noopener noreferrer">tldraw</a>
   </td>
   <td>very good whiteboard infinite canvas SDK</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/blackboardsh/electrobun" target="_blank" rel="noopener noreferrer">electrobun</a>
-  </td>
-  <td>Build ultra fast, tiny, and cross-platform desktop apps with Typescript.</td>
 </tr>
 </table>
 
