@@ -23,15 +23,15 @@ $ id hsinyau
 └───────────────────────────────────────────────────────────────────┘
 
 ┌───────────────────Weekly development breakdown────────────────────┐
-TypeScript 12 hrs 1 min   ███████▋░░░░░░░░░░░░░  36.3%
-Vue.js     9 hrs 57 mins  ██████▎░░░░░░░░░░░░░░  30.1%
-Astro      5 hrs 24 mins  ███▍░░░░░░░░░░░░░░░░░  16.3%
-Markdown   3 hrs 33 mins  ██▎░░░░░░░░░░░░░░░░░░  10.8%
+TypeScript 12 hrs 1 min   ███████▌░░░░░░░░░░░░░  36.1%
+Vue.js     9 hrs 56 mins  ██████▎░░░░░░░░░░░░░░  29.8%
+Astro      5 hrs 41 mins  ███▌░░░░░░░░░░░░░░░░░  17.1%
+Markdown   3 hrs 33 mins  ██▏░░░░░░░░░░░░░░░░░░  10.7%
 YAML       1 hr 7 mins    ▋░░░░░░░░░░░░░░░░░░░░   3.4%
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-03-29 09:10:58
+                      2026-03-30 09:11:50
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ YAML       1 hr 7 mins    ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/pdone/lx-music-source" target="_blank" rel="noopener noreferrer">lx-music-source</a>
+  </td>
+  <td>洛雪音乐源</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/coollabsio/maxio" target="_blank" rel="noopener noreferrer">maxio</a>
   </td>
   <td>MaxIO, a better MinIO</td>
@@ -108,12 +114,6 @@ YAML       1 hr 7 mins    ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/jihe520/social-push" target="_blank" rel="noopener noreferrer">social-push</a>
   </td>
   <td>🤖 AI social-media automation skill | Self-evolution workflows | AI 社交媒体自动化 skill | 自我进化工作流</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/tldraw/tldraw" target="_blank" rel="noopener noreferrer">tldraw</a>
-  </td>
-  <td>very good whiteboard infinite canvas SDK</td>
 </tr>
 </table>
 
