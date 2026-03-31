@@ -31,7 +31,7 @@ YAML       1 hr 7 mins    ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-03-30 09:11:50
+                      2026-03-31 09:09:14
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ YAML       1 hr 7 mins    ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/chenglou/pretext" target="_blank" rel="noopener noreferrer">pretext</a>
+  </td>
+  <td>null</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/pdone/lx-music-source" target="_blank" rel="noopener noreferrer">lx-music-source</a>
   </td>
   <td>洛雪音乐源</td>
@@ -108,12 +114,6 @@ YAML       1 hr 7 mins    ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/1612elphi/delphitools" target="_blank" rel="noopener noreferrer">delphitools</a>
   </td>
   <td>Collection of tools for designers and artists</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/jihe520/social-push" target="_blank" rel="noopener noreferrer">social-push</a>
-  </td>
-  <td>🤖 AI social-media automation skill | Self-evolution workflows | AI 社交媒体自动化 skill | 自我进化工作流</td>
 </tr>
 </table>
 
