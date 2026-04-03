@@ -23,15 +23,15 @@ $ id hsinyau
 └───────────────────────────────────────────────────────────────────┘
 
 ┌───────────────────Weekly development breakdown────────────────────┐
-Vue.js     13 hrs 25 mins ███████▌░░░░░░░░░░░░░  35.8%
-TypeScript 12 hrs 12 mins ██████▊░░░░░░░░░░░░░░  32.5%
-Astro      6 hrs 25 mins  ███▌░░░░░░░░░░░░░░░░░  17.1%
-Markdown   3 hrs          █▋░░░░░░░░░░░░░░░░░░░   8.0%
-YAML       1 hr 8 mins    ▋░░░░░░░░░░░░░░░░░░░░   3.0%
+Vue.js     16 hrs 44 mins ████████▉░░░░░░░░░░░░  42.4%
+TypeScript 12 hrs 15 mins ██████▌░░░░░░░░░░░░░░  31.0%
+Astro      4 hrs 45 mins  ██▌░░░░░░░░░░░░░░░░░░  12.1%
+Markdown   3 hrs 3 mins   █▋░░░░░░░░░░░░░░░░░░░   7.7%
+YAML       1 hr 8 mins    ▌░░░░░░░░░░░░░░░░░░░░   2.9%
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-04-02 09:06:57
+                      2026-04-03 09:09:16
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ YAML       1 hr 8 mins    ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/dominikmartn/nothing-design-skill" target="_blank" rel="noopener noreferrer">nothing-design-skill</a>
+  </td>
+  <td>A Claude Code skill for generating UI in the Nothing design language. Monochrome, typographic, industrial.</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/chenglou/pretext" target="_blank" rel="noopener noreferrer">pretext</a>
   </td>
   <td>null</td>
@@ -108,12 +114,6 @@ YAML       1 hr 8 mins    ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/linuz90/gists.sh" target="_blank" rel="noopener noreferrer">gists.sh</a>
   </td>
   <td>null</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/1612elphi/delphitools" target="_blank" rel="noopener noreferrer">delphitools</a>
-  </td>
-  <td>Collection of tools for designers and artists</td>
 </tr>
 </table>
 
