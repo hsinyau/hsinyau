@@ -23,15 +23,15 @@ $ id hsinyau
 └───────────────────────────────────────────────────────────────────┘
 
 ┌───────────────────Weekly development breakdown────────────────────┐
-Vue.js     16 hrs 44 mins ████████▉░░░░░░░░░░░░  42.4%
-TypeScript 12 hrs 15 mins ██████▌░░░░░░░░░░░░░░  31.0%
-Astro      4 hrs 45 mins  ██▌░░░░░░░░░░░░░░░░░░  12.1%
-Markdown   3 hrs 3 mins   █▋░░░░░░░░░░░░░░░░░░░   7.7%
-YAML       1 hr 8 mins    ▌░░░░░░░░░░░░░░░░░░░░   2.9%
+Vue.js     15 hrs 35 mins ██████████▋░░░░░░░░░░  50.9%
+TypeScript 6 hrs 12 mins  ████▏░░░░░░░░░░░░░░░░  20.2%
+Astro      4 hrs 46 mins  ███▎░░░░░░░░░░░░░░░░░  15.6%
+JSON       2 hrs 24 mins  █▋░░░░░░░░░░░░░░░░░░░   7.8%
+YAML       58 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.2%
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-04-03 09:09:16
+                      2026-04-04 09:03:32
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,18 @@ YAML       1 hr 8 mins    ▌░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/z-libraryopp/z-libraryopp.github.io" target="_blank" rel="noopener noreferrer">z-libraryopp.github.io</a>
+  </td>
+  <td>Z-library，官方Z-lib镜像网址及入口(2026/6/7)</td>
+</tr>
+<tr>
+  <td>
+    <a href="https://github.com/emdash-cms/emdash" target="_blank" rel="noopener noreferrer">emdash</a>
+  </td>
+  <td>EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/dominikmartn/nothing-design-skill" target="_blank" rel="noopener noreferrer">nothing-design-skill</a>
   </td>
   <td>A Claude Code skill for generating UI in the Nothing design language. Monochrome, typographic, industrial.</td>
@@ -102,18 +114,6 @@ YAML       1 hr 8 mins    ▌░░░░░░░░░░░░░░░░░
     <a href="https://github.com/coollabsio/maxio" target="_blank" rel="noopener noreferrer">maxio</a>
   </td>
   <td>MaxIO, a better MinIO</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/shuding/cobe" target="_blank" rel="noopener noreferrer">cobe</a>
-  </td>
-  <td>5KB WebGL globe lib.</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/linuz90/gists.sh" target="_blank" rel="noopener noreferrer">gists.sh</a>
-  </td>
-  <td>null</td>
 </tr>
 </table>
 
