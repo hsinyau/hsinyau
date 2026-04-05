@@ -23,15 +23,15 @@ $ id hsinyau
 └───────────────────────────────────────────────────────────────────┘
 
 ┌───────────────────Weekly development breakdown────────────────────┐
-Vue.js     15 hrs 35 mins ██████████▋░░░░░░░░░░  50.9%
-TypeScript 6 hrs 12 mins  ████▏░░░░░░░░░░░░░░░░  20.2%
-Astro      4 hrs 46 mins  ███▎░░░░░░░░░░░░░░░░░  15.6%
-JSON       2 hrs 24 mins  █▋░░░░░░░░░░░░░░░░░░░   7.8%
-YAML       58 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.2%
+Vue.js     11 hrs 45 mins ███████████████░░░░░░  71.6%
+JSON       2 hrs 10 mins  ██▊░░░░░░░░░░░░░░░░░░  13.2%
+Astro      1 hr 2 mins    █▎░░░░░░░░░░░░░░░░░░░   6.3%
+TypeScript 45 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.6%
+CSS        32 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-04-04 09:03:32
+                      2026-04-05 09:12:20
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ YAML       58 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/usebruno/bruno" target="_blank" rel="noopener noreferrer">bruno</a>
+  </td>
+  <td>Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/z-libraryopp/z-libraryopp.github.io" target="_blank" rel="noopener noreferrer">z-libraryopp.github.io</a>
   </td>
   <td>Z-library，官方Z-lib镜像网址及入口(2026/6/7)</td>
@@ -108,12 +114,6 @@ YAML       58 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/pdone/lx-music-source" target="_blank" rel="noopener noreferrer">lx-music-source</a>
   </td>
   <td>洛雪音乐源</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/coollabsio/maxio" target="_blank" rel="noopener noreferrer">maxio</a>
-  </td>
-  <td>MaxIO, a better MinIO</td>
 </tr>
 </table>
 
