@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-04-05 09:12:20
+                      2026-04-06 09:12:36
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -107,7 +107,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
   <td>
     <a href="https://github.com/chenglou/pretext" target="_blank" rel="noopener noreferrer">pretext</a>
   </td>
-  <td>null</td>
+  <td>Fast, accurate & comprehensive text measurement & layout</td>
 </tr>
 <tr>
   <td>
