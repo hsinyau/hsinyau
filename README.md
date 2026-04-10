@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-04-09 09:01:15
+                      2026-04-10 09:11:33
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/Gonzalo-D-Sales/obsidian-velocity" target="_blank" rel="noopener noreferrer">obsidian-velocity</a>
+  </td>
+  <td>A radically modern theme for Obsidian. </td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/Innei/Tsuki" target="_blank" rel="noopener noreferrer">Tsuki</a>
   </td>
   <td>🌙 TypeScript on Hono: NestJS-style decorators, DI, modules. Tsuki (moon) ↔ Hono (flame).</td>
@@ -108,12 +114,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/emdash-cms/emdash" target="_blank" rel="noopener noreferrer">emdash</a>
   </td>
   <td>EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/dominikmartn/nothing-design-skill" target="_blank" rel="noopener noreferrer">nothing-design-skill</a>
-  </td>
-  <td>A Claude Code skill for generating UI in the Nothing design language. Monochrome, typographic, industrial.</td>
 </tr>
 </table>
 
