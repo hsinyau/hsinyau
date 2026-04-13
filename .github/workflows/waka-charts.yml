@@ -1,0 +1,44 @@
+name: Waka Charts
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  update-charts:
+    name: Update wakatime stats charts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: mamboer/waka-charts@main
+        with:
+          # Required - Your WakaTime API Key
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # Optional - GitHub access token, Only required if using the action in repository other than profile
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          # Optional - Limit the number of languages to show in the chart
+          WAKATIME_LANG_LIMIT: 5
+          # Optional - Width of the chart
+          WAKATIME_CHART_WIDTH: 540
+          # Optional - Height of the chart
+          WAKATIME_CHART_HEIGHT: 168
+          # Optional - Bar Height of the chart
+          WAKATIME_CHART_BAR_HEIGHT: 34
+          # Optional - Margin X of the chart
+          WAKATIME_CHART_MARGIN_X: 12
+          # Optional - Margin Y of the chart
+          WAKATIME_CHART_MARGIN_Y: 4
+          # Optional - Padding of the chart
+          WAKATIME_CHART_PADDING: 2
+          # Optional - Width of the `name` column
+          WAKATIME_CHART_COL_NAME_WIDTH: 100
+          # Optional - Width of the `durations` column
+          WAKATIME_CHART_COL_DURATION_WIDTH: 110
+          # Optional - Calculate the height of the chart dynamically based on the number of languages and bar height
+          WAKATIME_CHART_DYNAMIC_HEIGHT: true
+          # Optional - Branch that needs to updated
+          BRANCH_NAME: main
+          # Optional - Commit message on each update of charts
+          COMMIT_MESSAGE: 📊 Update WakaCharts by WakaCharts-Bot
+          # Optional - Name of the folder in which generated charts will be shown
+          IMAGES_FOLDER: images
