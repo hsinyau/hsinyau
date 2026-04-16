@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-04-15 09:14:10
+                      2026-04-16 09:18:01
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/zhaohongxuan/obsidian-weread-plugin" target="_blank" rel="noopener noreferrer">obsidian-weread-plugin</a>
+  </td>
+  <td>Obsidian Weread Plugin is a plugin to sync Weread(微信读书) hightlights and annotations into your Obsidian Vault.</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/Gonzalo-D-Sales/obsidian-velocity" target="_blank" rel="noopener noreferrer">obsidian-velocity</a>
   </td>
   <td>A radically modern theme for Obsidian. </td>
@@ -108,12 +114,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/z-libraryopp/z-libraryopp.github.io" target="_blank" rel="noopener noreferrer">z-libraryopp.github.io</a>
   </td>
   <td>Z-library，官方Z-lib镜像网址及入口(2026/6/7)</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/emdash-cms/emdash" target="_blank" rel="noopener noreferrer">emdash</a>
-  </td>
-  <td>EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress</td>
 </tr>
 </table>
 
