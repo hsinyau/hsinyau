@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-04-16 09:18:32
+                      2026-04-17 09:15:50
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,18 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/pbakaus/impeccable" target="_blank" rel="noopener noreferrer">impeccable</a>
+  </td>
+  <td>The design language that makes your AI harness better at design.</td>
+</tr>
+<tr>
+  <td>
+    <a href="https://github.com/Innei/SKILL" target="_blank" rel="noopener noreferrer">SKILL</a>
+  </td>
+  <td>This repository stores personal AI Agent  skills in a scalable directory layout.</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/zhaohongxuan/obsidian-weread-plugin" target="_blank" rel="noopener noreferrer">obsidian-weread-plugin</a>
   </td>
   <td>Obsidian Weread Plugin is a plugin to sync Weread(微信读书) hightlights and annotations into your Obsidian Vault.</td>
@@ -102,18 +114,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/comarkdown/comark" target="_blank" rel="noopener noreferrer">comark</a>
   </td>
   <td>A high-performance Markdown parser and renderer for Vue, React, Svelte, HTML and ANSI.</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/usebruno/bruno" target="_blank" rel="noopener noreferrer">bruno</a>
-  </td>
-  <td>Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/z-libraryopp/z-libraryopp.github.io" target="_blank" rel="noopener noreferrer">z-libraryopp.github.io</a>
-  </td>
-  <td>Z-library，官方Z-lib镜像网址及入口(2026/6/7)</td>
 </tr>
 </table>
 
