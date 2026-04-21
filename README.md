@@ -31,50 +31,13 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-04-20 09:18:30
+                      2026-04-21 09:15:10
 └───────────────────────────────────────────────────────────────────┘
 ```
 
 **Recent Posts**
 
-<table>
-<tr>
-  <td>
-    <a href="https://hsinyau.com/posts/2025-year-end-summary" target="_blank" rel="noopener noreferrer">2025 · 碎碎念念，岁岁年年</a>
-  </td>
-  <td>2025-12-31</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://hsinyau.com/posts/growing-through-ups-and-downs" target="_blank" rel="noopener noreferrer">近期碎片 - 在起落里生长</a>
-  </td>
-  <td>2025-10-20</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://hsinyau.com/posts/weekly-review-5" target="_blank" rel="noopener noreferrer">周报 #5 - 好久不见的碎碎念</a>
-  </td>
-  <td>2025-07-12</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://hsinyau.com/posts/oops-weeks-flew-by" target="_blank" rel="noopener noreferrer">一不小心又过了好多周</a>
-  </td>
-  <td>2025-05-04</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://hsinyau.com/posts/weekly-review-3" target="_blank" rel="noopener noreferrer">周报 #3 - 生活切片 - 喜忧往昔杂谈</a>
-  </td>
-  <td>2025-03-02</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://hsinyau.com/posts/weekly-review-2" target="_blank" rel="noopener noreferrer">周报 #2 - 年味、乡愁与留守的童年</a>
-  </td>
-  <td>2025-02-05</td>
-</tr>
-</table>
+<p>未能获取最近的博客文章。</p>
 
 **Recent Stars**
 
