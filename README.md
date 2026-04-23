@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-04-22 09:14:32
+                      2026-04-23 09:19:06
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -42,6 +42,12 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 **Recent Stars**
 
 <table>
+<tr>
+  <td>
+    <a href="https://github.com/tw93/Kami" target="_blank" rel="noopener noreferrer">Kami</a>
+  </td>
+  <td>👩‍🚒 Good content deserves good paper.</td>
+</tr>
 <tr>
   <td>
     <a href="https://github.com/ascorbic/cirrus" target="_blank" rel="noopener noreferrer">cirrus</a>
@@ -71,12 +77,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/zhaohongxuan/obsidian-weread-plugin" target="_blank" rel="noopener noreferrer">obsidian-weread-plugin</a>
   </td>
   <td>Obsidian Weread Plugin is a plugin to sync Weread(微信读书) hightlights and annotations into your Obsidian Vault.</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/Gonzalo-D-Sales/obsidian-velocity" target="_blank" rel="noopener noreferrer">obsidian-velocity</a>
-  </td>
-  <td>A radically modern theme for Obsidian. </td>
 </tr>
 </table>
 
