@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-05-07 09:29:58
+                      2026-05-08 09:46:04
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -42,6 +42,12 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 **Recent Stars**
 
 <table>
+<tr>
+  <td>
+    <a href="https://github.com/Hmbown/DeepSeek-TUI" target="_blank" rel="noopener noreferrer">DeepSeek-TUI</a>
+  </td>
+  <td>Coding agent for DeepSeek models that runs in your terminal</td>
+</tr>
 <tr>
   <td>
     <a href="https://github.com/tw93/Kami" target="_blank" rel="noopener noreferrer">Kami</a>
@@ -71,12 +77,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/Innei/SKILL" target="_blank" rel="noopener noreferrer">SKILL</a>
   </td>
   <td>This repository stores personal AI Agent  skills in a scalable directory layout.</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/zhaohongxuan/obsidian-weread-plugin" target="_blank" rel="noopener noreferrer">obsidian-weread-plugin</a>
-  </td>
-  <td>Obsidian Weread Plugin is a plugin to sync Weread(微信读书) hightlights and annotations into your Obsidian Vault.</td>
 </tr>
 </table>
 
