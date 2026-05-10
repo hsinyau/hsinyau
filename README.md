@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-05-09 09:29:43
+                      2026-05-10 09:42:32
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -42,6 +42,12 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 **Recent Stars**
 
 <table>
+<tr>
+  <td>
+    <a href="https://github.com/DetachHead/rebased" target="_blank" rel="noopener noreferrer">rebased</a>
+  </td>
+  <td>A git client based on the IntelliJ platform</td>
+</tr>
 <tr>
   <td>
     <a href="https://github.com/Hmbown/DeepSeek-TUI" target="_blank" rel="noopener noreferrer">DeepSeek-TUI</a>
@@ -71,12 +77,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/pbakaus/impeccable" target="_blank" rel="noopener noreferrer">impeccable</a>
   </td>
   <td>The design language that makes your AI harness better at design.</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/Innei/SKILL" target="_blank" rel="noopener noreferrer">SKILL</a>
-  </td>
-  <td>This repository stores personal AI Agent  skills in a scalable directory layout.</td>
 </tr>
 </table>
 
