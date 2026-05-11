@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-05-10 09:42:32
+                      2026-05-11 09:49:12
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -42,6 +42,12 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 **Recent Stars**
 
 <table>
+<tr>
+  <td>
+    <a href="https://github.com/kavinsood/yaos" target="_blank" rel="noopener noreferrer">yaos</a>
+  </td>
+  <td>A zero-terminal, real-time sync engine powered by your own Cloudflare Worker.</td>
+</tr>
 <tr>
   <td>
     <a href="https://github.com/DetachHead/rebased" target="_blank" rel="noopener noreferrer">rebased</a>
@@ -71,12 +77,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/blacksky-algorithms/rsky" target="_blank" rel="noopener noreferrer">rsky</a>
   </td>
   <td> An AT Protocol implementation prioritizing community safety and self-governance, written in Rust.</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/pbakaus/impeccable" target="_blank" rel="noopener noreferrer">impeccable</a>
-  </td>
-  <td>The design language that makes your AI harness better at design.</td>
 </tr>
 </table>
 
