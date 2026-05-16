@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-05-15 09:50:40
+                      2026-05-16 09:30:07
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -42,6 +42,12 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 **Recent Stars**
 
 <table>
+<tr>
+  <td>
+    <a href="https://github.com/yetone/native-feel-skill" target="_blank" rel="noopener noreferrer">native-feel-skill</a>
+  </td>
+  <td>An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectural tenets, four-layer architecture, WebKit/WebView2 survival guide, 75-item ship audit.</td>
+</tr>
 <tr>
   <td>
     <a href="https://github.com/kavinsood/yaos" target="_blank" rel="noopener noreferrer">yaos</a>
@@ -71,12 +77,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/ascorbic/cirrus" target="_blank" rel="noopener noreferrer">cirrus</a>
   </td>
   <td>A single-user ATProto PDS that runs on a Cloudflare Worker</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/blacksky-algorithms/rsky" target="_blank" rel="noopener noreferrer">rsky</a>
-  </td>
-  <td> An AT Protocol implementation prioritizing community safety and self-governance, written in Rust.</td>
 </tr>
 </table>
 
