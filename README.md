@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-05-21 09:55:49
+                      2026-05-22 09:57:33
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -42,6 +42,12 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 **Recent Stars**
 
 <table>
+<tr>
+  <td>
+    <a href="https://github.com/guokaigdg/animal-island-ui" target="_blank" rel="noopener noreferrer">animal-island-ui</a>
+  </td>
+  <td>Animal 风格的 React 组件库 灵感来源于任天堂《集合啦！动物森友会》游戏界面</td>
+</tr>
 <tr>
   <td>
     <a href="https://github.com/yetone/native-feel-skill" target="_blank" rel="noopener noreferrer">native-feel-skill</a>
@@ -71,12 +77,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/tw93/Kami" target="_blank" rel="noopener noreferrer">Kami</a>
   </td>
   <td>👩‍🚒 Good content deserves good paper.</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/ascorbic/cirrus" target="_blank" rel="noopener noreferrer">cirrus</a>
-  </td>
-  <td>A single-user ATProto PDS that runs on a Cloudflare Worker</td>
 </tr>
 </table>
 
