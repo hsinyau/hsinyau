@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-05-23 09:48:27
+                      2026-05-24 09:53:46
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -68,7 +68,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 </tr>
 <tr>
   <td>
-    <a href="https://github.com/Hmbown/DeepSeek-TUI" target="_blank" rel="noopener noreferrer">DeepSeek-TUI</a>
+    <a href="https://github.com/Hmbown/CodeWhale" target="_blank" rel="noopener noreferrer">CodeWhale</a>
   </td>
   <td>Coding agent for DeepSeek models that runs in your terminal</td>
 </tr>
