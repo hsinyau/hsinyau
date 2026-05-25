@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-05-24 09:54:47
+                      2026-05-25 10:00:06
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -70,7 +70,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
   <td>
     <a href="https://github.com/Hmbown/CodeWhale" target="_blank" rel="noopener noreferrer">CodeWhale</a>
   </td>
-  <td>Coding agent for DeepSeek models that runs in your terminal</td>
+  <td>Coding agent for open source, open weight models </td>
 </tr>
 <tr>
   <td>
