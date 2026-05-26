@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-05-25 10:01:29
+                      2026-05-26 09:52:12
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -44,9 +44,15 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/esengine/DeepSeek-Reasonix" target="_blank" rel="noopener noreferrer">DeepSeek-Reasonix</a>
+  </td>
+  <td>DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/guokaigdg/animal-island-ui" target="_blank" rel="noopener noreferrer">animal-island-ui</a>
   </td>
-  <td>Animal 风格的 React 组件库 灵感来源于任天堂《集合啦！动物森友会》游戏界面</td>
+  <td>Animal 风格的 React 组件库 灵感来源于任天堂《集合啦！动物森友会》游戏界面 Animal Crossing-style React UI component library, inspired by Nintendo's game visuals</td>
 </tr>
 <tr>
   <td>
@@ -70,13 +76,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
   <td>
     <a href="https://github.com/Hmbown/CodeWhale" target="_blank" rel="noopener noreferrer">CodeWhale</a>
   </td>
-  <td>Coding agent for open source, open weight models </td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/tw93/Kami" target="_blank" rel="noopener noreferrer">Kami</a>
-  </td>
-  <td>👩‍🚒 Good content deserves good paper.</td>
+  <td>Agentic coding terminal. DeepSeek-first, multi-provider, cache-maximal, whale-themed. Five-locale UI + CN-region endpoints + CNB mirror.</td>
 </tr>
 </table>
 
