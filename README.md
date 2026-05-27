@@ -31,13 +31,50 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-05-26 09:52:59
+                      2026-05-27 10:00:09
 └───────────────────────────────────────────────────────────────────┘
 ```
 
 **Recent Posts**
 
-<p>未能获取最近的博客文章。</p>
+<table>
+<tr>
+  <td>
+    <a href="https://hsinyau.com/posts/2025-year-end-summary" target="_blank" rel="noopener noreferrer">2025 · 碎碎念念，岁岁年年</a>
+  </td>
+  <td>2025-12-31</td>
+</tr>
+<tr>
+  <td>
+    <a href="https://hsinyau.com/posts/growing-through-ups-and-downs" target="_blank" rel="noopener noreferrer">近期碎片 - 在起落里生长</a>
+  </td>
+  <td>2025-10-20</td>
+</tr>
+<tr>
+  <td>
+    <a href="https://hsinyau.com/posts/weekly-review-5" target="_blank" rel="noopener noreferrer">周报 #5 - 好久不见的碎碎念</a>
+  </td>
+  <td>2025-07-12</td>
+</tr>
+<tr>
+  <td>
+    <a href="https://hsinyau.com/posts/oops-weeks-flew-by" target="_blank" rel="noopener noreferrer">一不小心又过了好多周</a>
+  </td>
+  <td>2025-05-04</td>
+</tr>
+<tr>
+  <td>
+    <a href="https://hsinyau.com/posts/weekly-review-3" target="_blank" rel="noopener noreferrer">周报 #3 - 生活切片 - 喜忧往昔杂谈</a>
+  </td>
+  <td>2025-03-02</td>
+</tr>
+<tr>
+  <td>
+    <a href="https://hsinyau.com/posts/weekly-review-2" target="_blank" rel="noopener noreferrer">周报 #2 - 年味、乡愁与留守的童年</a>
+  </td>
+  <td>2025-02-05</td>
+</tr>
+</table>
 
 **Recent Stars**
 
@@ -76,7 +113,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
   <td>
     <a href="https://github.com/Hmbown/CodeWhale" target="_blank" rel="noopener noreferrer">CodeWhale</a>
   </td>
-  <td>Agentic coding terminal. DeepSeek-first, multi-provider, cache-maximal, whale-themed. Five-locale UI + CN-region endpoints + CNB mirror.</td>
+  <td>DeepSeek v4 coding agent in terminal</td>
 </tr>
 </table>
 
