@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-05-27 10:01:07
+                      2026-05-28 09:31:43
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -113,7 +113,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
   <td>
     <a href="https://github.com/Hmbown/CodeWhale" target="_blank" rel="noopener noreferrer">CodeWhale</a>
   </td>
-  <td>DeepSeek v4 coding agent in terminal</td>
+  <td>DeepSeek + MiMo coding agent in terminal</td>
 </tr>
 </table>
 
