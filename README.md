@@ -31,13 +31,19 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-05-29 09:55:00
+                      2026-05-30 09:49:04
 └───────────────────────────────────────────────────────────────────┘
 ```
 
 **Recent Posts**
 
 <table>
+<tr>
+  <td>
+    <a href="https://hsinyau.com/posts/days-slowly-walking-notes" target="_blank" rel="noopener noreferrer">日子缓缓，且行且记</a>
+  </td>
+  <td>2026-05-28</td>
+</tr>
 <tr>
   <td>
     <a href="https://hsinyau.com/posts/2025-year-end-summary" target="_blank" rel="noopener noreferrer">2025 · 碎碎念念，岁岁年年</a>
@@ -68,12 +74,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
   </td>
   <td>2025-03-02</td>
 </tr>
-<tr>
-  <td>
-    <a href="https://hsinyau.com/posts/weekly-review-2" target="_blank" rel="noopener noreferrer">周报 #2 - 年味、乡愁与留守的童年</a>
-  </td>
-  <td>2025-02-05</td>
-</tr>
 </table>
 
 **Recent Stars**
@@ -89,7 +89,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
   <td>
     <a href="https://github.com/guokaigdg/animal-island-ui" target="_blank" rel="noopener noreferrer">animal-island-ui</a>
   </td>
-  <td>Animal 风格的 React 组件库 灵感来源于任天堂《集合啦！动物森友会》游戏界面 Animal Crossing-style React UI component library, inspired by Nintendo's game visuals</td>
+  <td>Animal 风格的 React 组件库 灵感来源于任天堂《集合啦！动物森友会》游戏界面 Animal Crossing-style React UI component library, inspired by Nintendo's game visuals 💡Vue版本https://github.com/guokaigdg/animal-island-vue</td>
 </tr>
 <tr>
   <td>
