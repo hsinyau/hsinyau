@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-06-05 10:00:20
+                      2026-06-06 09:52:40
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/shuaiplus/nodewarden" target="_blank" rel="noopener noreferrer">nodewarden</a>
+  </td>
+  <td>Bitwarden-compatible server running on Cloudflare Workers</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/esengine/DeepSeek-Reasonix" target="_blank" rel="noopener noreferrer">DeepSeek-Reasonix</a>
   </td>
   <td>DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.</td>
@@ -108,12 +114,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/DetachHead/rebased" target="_blank" rel="noopener noreferrer">rebased</a>
   </td>
   <td>A git client based on the IntelliJ platform</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/Hmbown/CodeWhale" target="_blank" rel="noopener noreferrer">CodeWhale</a>
-  </td>
-  <td>DeepSeek + MiMo coding agent in terminal</td>
 </tr>
 </table>
 
