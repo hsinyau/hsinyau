@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-06-09 09:49:39
+                      2026-06-10 10:00:39
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -95,7 +95,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
   <td>
     <a href="https://github.com/guokaigdg/animal-island-ui" target="_blank" rel="noopener noreferrer">animal-island-ui</a>
   </td>
-  <td>Animal 风格的 React 组件库 灵感来源于任天堂《集合啦！动物森友会》游戏界面 Animal Crossing-style React UI component library, inspired by Nintendo's game visuals 💡Vue版本https://github.com/guokaigdg/animal-island-vue</td>
+  <td>Animal 风格的 React 组件库 灵感来源于任天堂《集合啦！动物森友会》 Vue 版同步发布  Animal Crossing-style React UI component library, inspired by Nintendo's game visuals Vue version available. </td>
 </tr>
 <tr>
   <td>
