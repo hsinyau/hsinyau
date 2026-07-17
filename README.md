@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-07-16 09:16:59
+                      2026-07-17 09:20:22
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/sivan/heti" target="_blank" rel="noopener noreferrer">heti</a>
+  </td>
+  <td>赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/shuaiplus/nodewarden" target="_blank" rel="noopener noreferrer">nodewarden</a>
   </td>
   <td>Bitwarden-compatible server running on Cloudflare Workers</td>
@@ -108,12 +114,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/kavinsood/yaos" target="_blank" rel="noopener noreferrer">yaos</a>
   </td>
   <td>A zero-terminal, real-time sync engine powered by your own Cloudflare Worker.</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/DetachHead/rebased" target="_blank" rel="noopener noreferrer">rebased</a>
-  </td>
-  <td>A git client based on the IntelliJ platform</td>
 </tr>
 </table>
 
