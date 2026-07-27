@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-07-26 09:23:42
+                      2026-07-27 09:27:46
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/hahahumble/storageui" target="_blank" rel="noopener noreferrer">storageui</a>
+  </td>
+  <td>☁️ Open file browser for S3, R2, and other storage backends.</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/sivan/heti" target="_blank" rel="noopener noreferrer">heti</a>
   </td>
   <td>赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。</td>
@@ -108,12 +114,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/yetone/native-feel-skill" target="_blank" rel="noopener noreferrer">native-feel-skill</a>
   </td>
   <td>An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectural tenets, four-layer architecture, WebKit/WebView2 survival guide, 75-item ship audit.</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/kavinsood/yaos" target="_blank" rel="noopener noreferrer">yaos</a>
-  </td>
-  <td>A zero-terminal, real-time sync engine powered by your own Cloudflare Worker.</td>
 </tr>
 </table>
 
