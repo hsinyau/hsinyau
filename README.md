@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-07-28 09:15:41
+                      2026-07-29 09:17:42
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/Homulilly/hexo-theme-flatpaper" target="_blank" rel="noopener noreferrer">hexo-theme-flatpaper</a>
+  </td>
+  <td>一款融合纸张质感与手账风格元素的 Hexo 主题</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/hahahumble/storageui" target="_blank" rel="noopener noreferrer">storageui</a>
   </td>
   <td>☁️ Open file browser for S3, R2, and other storage backends.</td>
@@ -108,12 +114,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/guokaigdg/animal-island-ui" target="_blank" rel="noopener noreferrer">animal-island-ui</a>
   </td>
   <td>Animal Crossing-style React UI component library, inspired by Nintendo's game visuals Vue version available.  Animal 风格的 React 组件库 灵感来源于任天堂《集合啦！动物森友会》 Vue 版同步发布 </td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/yetone/native-feel-skill" target="_blank" rel="noopener noreferrer">native-feel-skill</a>
-  </td>
-  <td>An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectural tenets, four-layer architecture, WebKit/WebView2 survival guide, 75-item ship audit.</td>
 </tr>
 </table>
 
