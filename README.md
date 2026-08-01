@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-07-31 09:23:56
+                      2026-08-01 09:25:48
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/t8y2/dbx" target="_blank" rel="noopener noreferrer">dbx</a>
+  </td>
+  <td>20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 70+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/Homulilly/hexo-theme-flatpaper" target="_blank" rel="noopener noreferrer">hexo-theme-flatpaper</a>
   </td>
   <td>一款融合纸张质感与手账风格元素的 Hexo 主题</td>
@@ -108,12 +114,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/esengine/DeepSeek-Reasonix" target="_blank" rel="noopener noreferrer">DeepSeek-Reasonix</a>
   </td>
   <td>DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/guokaigdg/animal-island-ui" target="_blank" rel="noopener noreferrer">animal-island-ui</a>
-  </td>
-  <td>Animal Crossing-style React UI component library, inspired by Nintendo's game visuals Vue version available.  Animal 风格的 React 组件库 灵感来源于任天堂《集合啦！动物森友会》 Vue 版同步发布 </td>
 </tr>
 </table>
 
