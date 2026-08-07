@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-08-06 09:14:04
+                      2026-08-07 09:56:38
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,18 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/cloudflare/nimbus" target="_blank" rel="noopener noreferrer">nimbus</a>
+  </td>
+  <td>Docs for humans and agents, built on Astro</td>
+</tr>
+<tr>
+  <td>
+    <a href="https://github.com/ZzzLc0405/photo-abstract-editorial" target="_blank" rel="noopener noreferrer">photo-abstract-editorial</a>
+  </td>
+  <td>null</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/t8y2/dbx" target="_blank" rel="noopener noreferrer">dbx</a>
   </td>
   <td>20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 70+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。</td>
@@ -102,18 +114,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/sivan/heti" target="_blank" rel="noopener noreferrer">heti</a>
   </td>
   <td>赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/shuaiplus/nodewarden" target="_blank" rel="noopener noreferrer">nodewarden</a>
-  </td>
-  <td>Bitwarden-compatible server running on Cloudflare Workers</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/esengine/DeepSeek-Reasonix" target="_blank" rel="noopener noreferrer">DeepSeek-Reasonix</a>
-  </td>
-  <td>DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.</td>
 </tr>
 </table>
 
