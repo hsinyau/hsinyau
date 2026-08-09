@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-08-08 08:39:21
+                      2026-08-09 08:41:44
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/op7418/guizang-social-card-skill" target="_blank" rel="noopener noreferrer">guizang-social-card-skill</a>
+  </td>
+  <td>🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/cloudflare/nimbus" target="_blank" rel="noopener noreferrer">nimbus</a>
   </td>
   <td>Docs for humans and agents, built on Astro</td>
@@ -108,12 +114,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/hahahumble/storageui" target="_blank" rel="noopener noreferrer">storageui</a>
   </td>
   <td>☁️ Open file browser for S3, R2, and other storage backends.</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/sivan/heti" target="_blank" rel="noopener noreferrer">heti</a>
-  </td>
-  <td>赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。</td>
 </tr>
 </table>
 
