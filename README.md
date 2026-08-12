@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-08-11 08:43:29
+                      2026-08-12 08:50:37
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/fuma-nama/fumapress" target="_blank" rel="noopener noreferrer">fumapress</a>
+  </td>
+  <td>Turn your content into website with Fumadocs.</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/op7418/guizang-social-card-skill" target="_blank" rel="noopener noreferrer">guizang-social-card-skill</a>
   </td>
   <td>🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对</td>
@@ -108,12 +114,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/Homulilly/hexo-theme-flatpaper" target="_blank" rel="noopener noreferrer">hexo-theme-flatpaper</a>
   </td>
   <td>一款融合纸张质感与手账风格元素的 Hexo 主题</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/hahahumble/storageui" target="_blank" rel="noopener noreferrer">storageui</a>
-  </td>
-  <td>☁️ Open file browser for S3, R2, and other storage backends.</td>
 </tr>
 </table>
 
