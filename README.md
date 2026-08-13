@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-08-12 08:50:37
+                      2026-08-13 08:52:07
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -40,9 +40,27 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
-    <a href="https://hsinyau.com/posts/days-slowly-walking-notes" target="_blank" rel="noopener noreferrer">日子缓缓，且行且记</a>
+    <a href="https://hsinyau.com/posts/2021-year-end-summary" target="_blank" rel="noopener noreferrer">凡是过往皆是序章，所有将来皆为可盼</a>
   </td>
-  <td>2026-05-28</td>
+  <td>2021-12-31</td>
+</tr>
+<tr>
+  <td>
+    <a href="https://hsinyau.com/posts/2022-year-end-summary" target="_blank" rel="noopener noreferrer">2022 · 疫情、生活与自我</a>
+  </td>
+  <td>2022-12-31</td>
+</tr>
+<tr>
+  <td>
+    <a href="https://hsinyau.com/posts/2023-year-end-summary" target="_blank" rel="noopener noreferrer">2023 · 跃动的瞬间与恒久的印记</a>
+  </td>
+  <td>2023-12-31</td>
+</tr>
+<tr>
+  <td>
+    <a href="https://hsinyau.com/posts/2024-year-end-summary" target="_blank" rel="noopener noreferrer">2024 · 素锦流年，绮梦新添</a>
+  </td>
+  <td>2024-12-27</td>
 </tr>
 <tr>
   <td>
@@ -52,27 +70,9 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 </tr>
 <tr>
   <td>
-    <a href="https://hsinyau.com/posts/growing-through-ups-and-downs" target="_blank" rel="noopener noreferrer">近期碎片 - 在起落里生长</a>
+    <a href="https://hsinyau.com/posts/days-slowly-walking-notes" target="_blank" rel="noopener noreferrer">日子缓缓，且行且记</a>
   </td>
-  <td>2025-10-20</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://hsinyau.com/posts/weekly-review-5" target="_blank" rel="noopener noreferrer">周报 #5 - 好久不见的碎碎念</a>
-  </td>
-  <td>2025-07-12</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://hsinyau.com/posts/oops-weeks-flew-by" target="_blank" rel="noopener noreferrer">一不小心又过了好多周</a>
-  </td>
-  <td>2025-05-04</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://hsinyau.com/posts/weekly-review-3" target="_blank" rel="noopener noreferrer">周报 #3 - 生活切片 - 喜忧往昔杂谈</a>
-  </td>
-  <td>2025-03-02</td>
+  <td>2026-05-28</td>
 </tr>
 </table>
 
