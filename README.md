@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-08-18 08:27:44
+                      2026-08-19 08:27:59
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/xianxie6/stamp-edge-skill" target="_blank" rel="noopener noreferrer">stamp-edge-skill</a>
+  </td>
+  <td>Agent skill: turn any image into a postage-stamp style card with perforated edges and true transparent background</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/jdx/mise" target="_blank" rel="noopener noreferrer">mise</a>
   </td>
   <td>dev tools, env vars, task runner</td>
@@ -108,12 +114,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/cloudflare/nimbus" target="_blank" rel="noopener noreferrer">nimbus</a>
   </td>
   <td>Docs for humans and agents, built on Astro</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/ZzzLc0405/photo-abstract-editorial" target="_blank" rel="noopener noreferrer">photo-abstract-editorial</a>
-  </td>
-  <td>null</td>
 </tr>
 </table>
 
