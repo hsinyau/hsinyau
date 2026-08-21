@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-08-20 08:28:19
+                      2026-08-21 08:30:40
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,18 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/Alain00/blobatar" target="_blank" rel="noopener noreferrer">blobatar</a>
+  </td>
+  <td>null</td>
+</tr>
+<tr>
+  <td>
+    <a href="https://github.com/juliangarnier/juliangarnier.com" target="_blank" rel="noopener noreferrer">juliangarnier.com</a>
+  </td>
+  <td>Personal mini website</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/xianxie6/stamp-edge-skill" target="_blank" rel="noopener noreferrer">stamp-edge-skill</a>
   </td>
   <td>Agent skill: turn any image into a postage-stamp style card with perforated edges and true transparent background</td>
@@ -102,18 +114,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/fuma-nama/fumapress" target="_blank" rel="noopener noreferrer">fumapress</a>
   </td>
   <td>Turn your content into website with Fumadocs.</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/op7418/guizang-social-card-skill" target="_blank" rel="noopener noreferrer">guizang-social-card-skill</a>
-  </td>
-  <td>🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/cloudflare/nimbus" target="_blank" rel="noopener noreferrer">nimbus</a>
-  </td>
-  <td>Docs for humans and agents, built on Astro</td>
 </tr>
 </table>
 
