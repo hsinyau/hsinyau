@@ -31,19 +31,13 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-08-21 08:30:40
+                      2026-08-22 08:28:11
 └───────────────────────────────────────────────────────────────────┘
 ```
 
 **Recent Posts**
 
 <table>
-<tr>
-  <td>
-    <a href="https://hsinyau.com/posts/hello-astro" target="_blank" rel="noopener noreferrer">新的开始：Hello Astro</a>
-  </td>
-  <td>2026-08-12</td>
-</tr>
 <tr>
   <td>
     <a href="https://hsinyau.com/posts/days-slowly-walking-notes" target="_blank" rel="noopener noreferrer">日子缓缓，且行且记</a>
@@ -64,7 +58,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 </tr>
 <tr>
   <td>
-    <a href="https://hsinyau.com/posts/long-time-no-see" target="_blank" rel="noopener noreferrer">好久不见的碎碎念</a>
+    <a href="https://hsinyau.com/posts/weekly-review-5" target="_blank" rel="noopener noreferrer">周报 #5 - 好久不见的碎碎念</a>
   </td>
   <td>2025-07-12</td>
 </tr>
@@ -73,6 +67,12 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://hsinyau.com/posts/oops-weeks-flew-by" target="_blank" rel="noopener noreferrer">一不小心又过了好多周</a>
   </td>
   <td>2025-05-04</td>
+</tr>
+<tr>
+  <td>
+    <a href="https://hsinyau.com/posts/weekly-review-3" target="_blank" rel="noopener noreferrer">周报 #3 - 生活切片 - 喜忧往昔杂谈</a>
+  </td>
+  <td>2025-03-02</td>
 </tr>
 </table>
 
