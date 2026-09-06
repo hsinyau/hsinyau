@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-09-05 09:35:42
+                      2026-09-06 09:30:10
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -113,7 +113,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
   <td>
     <a href="https://github.com/fuma-nama/fumapress" target="_blank" rel="noopener noreferrer">fumapress</a>
   </td>
-  <td>Turn your content into website with Fumadocs.</td>
+  <td>A React framework to build content sites with Fumadocs.</td>
 </tr>
 </table>
 
