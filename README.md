@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-09-07 09:28:28
+                      2026-09-08 09:37:55
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/nevertoday/xxd-panel-170" target="_blank" rel="noopener noreferrer">xxd-panel-170</a>
+  </td>
+  <td>null</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/Alain00/blobatar" target="_blank" rel="noopener noreferrer">blobatar</a>
   </td>
   <td>null</td>
@@ -108,12 +114,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/wangwangit/SubsTracker" target="_blank" rel="noopener noreferrer">SubsTracker</a>
   </td>
   <td>基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过Telegram发送及时提醒。</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/fuma-nama/fumapress" target="_blank" rel="noopener noreferrer">fumapress</a>
-  </td>
-  <td>A React framework to build content sites with Fumadocs.</td>
 </tr>
 </table>
 
