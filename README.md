@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-09-09 09:45:28
+                      2026-09-10 09:40:50
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/egoist/waku" target="_blank" rel="noopener noreferrer">waku</a>
+  </td>
+  <td>⚡ A native app for all your coding agents.</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/nevertoday/xxd-panel-170" target="_blank" rel="noopener noreferrer">xxd-panel-170</a>
   </td>
   <td>null</td>
@@ -108,12 +114,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/jdx/mise" target="_blank" rel="noopener noreferrer">mise</a>
   </td>
   <td>dev tools, env vars, task runner</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/wangwangit/SubsTracker" target="_blank" rel="noopener noreferrer">SubsTracker</a>
-  </td>
-  <td>基于Cloudflare Workers的轻量级订阅管理系统，帮助您轻松跟踪各类订阅服务的到期时间，并通过Telegram发送及时提醒。</td>
 </tr>
 </table>
 
