@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-09-12 09:45:51
+                      2026-09-13 09:36:28
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,18 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/junhoyeo/tokscale" target="_blank" rel="noopener noreferrer">tokscale</a>
+  </td>
+  <td>🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with trillions of tokens tracked.</td>
+</tr>
+<tr>
+  <td>
+    <a href="https://github.com/Eyozy/duodash" target="_blank" rel="noopener noreferrer">duodash</a>
+  </td>
+  <td>Duolingo 学习数据仪表盘，直观展示你的 XP 趋势、连胜记录和成就</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/egoist/waku" target="_blank" rel="noopener noreferrer">waku</a>
   </td>
   <td>⚡ A native app for all your coding agents.</td>
@@ -102,18 +114,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/juliangarnier/juliangarnier.com" target="_blank" rel="noopener noreferrer">juliangarnier.com</a>
   </td>
   <td>Personal mini website</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/xianxie6/stamp-edge-skill" target="_blank" rel="noopener noreferrer">stamp-edge-skill</a>
-  </td>
-  <td>Agent skill: turn any image into a postage-stamp style card with perforated edges and true transparent background</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/jdx/mise" target="_blank" rel="noopener noreferrer">mise</a>
-  </td>
-  <td>dev tools, env vars, task runner</td>
 </tr>
 </table>
 
