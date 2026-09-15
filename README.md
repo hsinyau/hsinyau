@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-09-14 09:55:14
+                      2026-09-15 10:03:43
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,24 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/alfonsusac/kawaii-logos-data" target="_blank" rel="noopener noreferrer">kawaii-logos-data</a>
+  </td>
+  <td>JSON Data for kawaii logos made by several artists that are scraped every few hours</td>
+</tr>
+<tr>
+  <td>
+    <a href="https://github.com/nilbuild/page-mascot" target="_blank" rel="noopener noreferrer">page-mascot</a>
+  </td>
+  <td>A mascot that watches the cursor and blinks when you poke it</td>
+</tr>
+<tr>
+  <td>
+    <a href="https://github.com/danielroe/airspace" target="_blank" rel="noopener noreferrer">airspace</a>
+  </td>
+  <td>The database you already have.</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/junhoyeo/tokscale" target="_blank" rel="noopener noreferrer">tokscale</a>
   </td>
   <td>🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with trillions of tokens tracked.</td>
@@ -96,24 +114,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/egoist/waku" target="_blank" rel="noopener noreferrer">waku</a>
   </td>
   <td>⚡ A native app for all your coding agents.</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/nevertoday/xxd-panel-170" target="_blank" rel="noopener noreferrer">xxd-panel-170</a>
-  </td>
-  <td>null</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/Alain00/blobatar" target="_blank" rel="noopener noreferrer">blobatar</a>
-  </td>
-  <td>null</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/juliangarnier/juliangarnier.com" target="_blank" rel="noopener noreferrer">juliangarnier.com</a>
-  </td>
-  <td>Personal mini website</td>
 </tr>
 </table>
 
