@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-10-06 11:29:05
+                      2026-10-07 10:53:38
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/cloudflare/agentic-inbox" target="_blank" rel="noopener noreferrer">agentic-inbox</a>
+  </td>
+  <td>A self-hosted email client with an AI agent, running entirely on Cloudflare Workers</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/alfonsusac/kawaii-logos-data" target="_blank" rel="noopener noreferrer">kawaii-logos-data</a>
   </td>
   <td>JSON Data for kawaii logos made by several artists that are scraped every few hours</td>
@@ -108,12 +114,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/Eyozy/duodash" target="_blank" rel="noopener noreferrer">duodash</a>
   </td>
   <td>Duolingo 学习数据仪表盘，直观展示你的 XP 趋势、连胜记录和成就</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/egoist/waku" target="_blank" rel="noopener noreferrer">waku</a>
-  </td>
-  <td>⚡ A native app for all your coding agents.</td>
 </tr>
 </table>
 
