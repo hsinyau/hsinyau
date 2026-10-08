@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-10-07 10:53:38
+                      2026-10-08 11:11:03
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/Mxucc/xianyu-super-butler" target="_blank" rel="noopener noreferrer">xianyu-super-butler</a>
+  </td>
+  <td>闲鱼超级管家是在 xianyu-auto-reply 基础上的二次开发版本，保留了原项目的所有核心功能，并对前端 UI 进行了全面重构，带来更加现代化、专业化的使用体验。</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/cloudflare/agentic-inbox" target="_blank" rel="noopener noreferrer">agentic-inbox</a>
   </td>
   <td>A self-hosted email client with an AI agent, running entirely on Cloudflare Workers</td>
@@ -108,12 +114,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/junhoyeo/tokscale" target="_blank" rel="noopener noreferrer">tokscale</a>
   </td>
   <td>🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with trillions of tokens tracked.</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/Eyozy/duodash" target="_blank" rel="noopener noreferrer">duodash</a>
-  </td>
-  <td>Duolingo 学习数据仪表盘，直观展示你的 XP 趋势、连胜记录和成就</td>
 </tr>
 </table>
 
