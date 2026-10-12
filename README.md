@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-10-11 10:26:05
+                      2026-10-12 10:50:35
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/yetone/magpie" target="_blank" rel="noopener noreferrer">magpie</a>
+  </td>
+  <td>Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/robbietilton/Compositor" target="_blank" rel="noopener noreferrer">Compositor</a>
   </td>
   <td>The Photoshop alternative for Mac</td>
@@ -108,12 +114,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/nilbuild/page-mascot" target="_blank" rel="noopener noreferrer">page-mascot</a>
   </td>
   <td>A mascot that watches the cursor and blinks when you poke it</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/danielroe/airspace" target="_blank" rel="noopener noreferrer">airspace</a>
-  </td>
-  <td>The database you already have.</td>
 </tr>
 </table>
 
