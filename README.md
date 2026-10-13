@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-10-12 10:50:35
+                      2026-10-13 12:06:40
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,18 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/yang0/handraw-style" target="_blank" rel="noopener noreferrer">handraw-style</a>
+  </td>
+  <td>手绘风格编号画廊与双语提示词 Skill</td>
+</tr>
+<tr>
+  <td>
+    <a href="https://github.com/yanliudesign/mono-color-skill" target="_blank" rel="noopener noreferrer">mono-color-skill</a>
+  </td>
+  <td>One-ink editorial print image skill — warm paper, halftone photography, active negative space, and restrained typography.</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/yetone/magpie" target="_blank" rel="noopener noreferrer">magpie</a>
   </td>
   <td>Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.</td>
@@ -102,18 +114,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/cloudflare/agentic-inbox" target="_blank" rel="noopener noreferrer">agentic-inbox</a>
   </td>
   <td>A self-hosted email client with an AI agent, running entirely on Cloudflare Workers</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/alfonsusac/kawaii-logos-data" target="_blank" rel="noopener noreferrer">kawaii-logos-data</a>
-  </td>
-  <td>JSON Data for kawaii logos made by several artists that are scraped every few hours</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/nilbuild/page-mascot" target="_blank" rel="noopener noreferrer">page-mascot</a>
-  </td>
-  <td>A mascot that watches the cursor and blinks when you poke it</td>
 </tr>
 </table>
 
