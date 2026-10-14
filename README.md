@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-10-13 12:06:40
+                      2026-10-14 10:20:23
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/egoist/mygo" target="_blank" rel="noopener noreferrer">mygo</a>
+  </td>
+  <td>Develop desktop apps with native UI or web frontend in Go</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/yang0/handraw-style" target="_blank" rel="noopener noreferrer">handraw-style</a>
   </td>
   <td>手绘风格编号画廊与双语提示词 Skill</td>
@@ -108,12 +114,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/Mxucc/xianyu-super-butler" target="_blank" rel="noopener noreferrer">xianyu-super-butler</a>
   </td>
   <td>闲鱼超级管家是在 xianyu-auto-reply 基础上的二次开发版本，保留了原项目的所有核心功能，并对前端 UI 进行了全面重构，带来更加现代化、专业化的使用体验。</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/cloudflare/agentic-inbox" target="_blank" rel="noopener noreferrer">agentic-inbox</a>
-  </td>
-  <td>A self-hosted email client with an AI agent, running entirely on Cloudflare Workers</td>
 </tr>
 </table>
 
