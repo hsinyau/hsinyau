@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-10-17 09:46:05
+                      2026-10-18 09:43:19
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/gkurt/tegaki" target="_blank" rel="noopener noreferrer">tegaki</a>
+  </td>
+  <td>Handwriting animation for the web. Supports any font or text.</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/egoist/mygo" target="_blank" rel="noopener noreferrer">mygo</a>
   </td>
   <td>Develop desktop apps with native UI or web frontend in Go</td>
@@ -108,12 +114,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/robbietilton/Compositor" target="_blank" rel="noopener noreferrer">Compositor</a>
   </td>
   <td>The Photoshop alternative for Mac</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/Mxucc/xianyu-super-butler" target="_blank" rel="noopener noreferrer">xianyu-super-butler</a>
-  </td>
-  <td>闲鱼超级管家是在 xianyu-auto-reply 基础上的二次开发版本，保留了原项目的所有核心功能，并对前端 UI 进行了全面重构，带来更加现代化、专业化的使用体验。</td>
 </tr>
 </table>
 
