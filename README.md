@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-10-20 10:17:56
+                      2026-10-21 10:11:14
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/stackedlol/ascii-sharks" target="_blank" rel="noopener noreferrer">ascii-sharks</a>
+  </td>
+  <td>ascii shark components in typescript</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/gkurt/tegaki" target="_blank" rel="noopener noreferrer">tegaki</a>
   </td>
   <td>Handwriting animation for the web. Supports any font or text.</td>
@@ -108,12 +114,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/yetone/magpie" target="_blank" rel="noopener noreferrer">magpie</a>
   </td>
   <td>Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/robbietilton/Compositor" target="_blank" rel="noopener noreferrer">Compositor</a>
-  </td>
-  <td>The Photoshop alternative for Mac</td>
 </tr>
 </table>
 
