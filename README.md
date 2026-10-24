@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-10-23 10:10:27
+                      2026-10-24 10:09:17
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/peach-mitao/peach" target="_blank" rel="noopener noreferrer">peach</a>
+  </td>
+  <td>Peach 蜜桃：单用户、本地优先的个人媒体系统 · Single-user, local-first personal media system</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/stackedlol/ascii-sharks" target="_blank" rel="noopener noreferrer">ascii-sharks</a>
   </td>
   <td>ascii shark components in typescript</td>
@@ -108,12 +114,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/yanliudesign/mono-color-skill" target="_blank" rel="noopener noreferrer">mono-color-skill</a>
   </td>
   <td>One-ink editorial print image skill — warm paper, halftone photography, active negative space, and restrained typography.</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/yetone/magpie" target="_blank" rel="noopener noreferrer">magpie</a>
-  </td>
-  <td>Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.</td>
 </tr>
 </table>
 
