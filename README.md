@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-10-25 09:55:41
+                      2026-10-26 09:57:21
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/tianma-if/edgeever" target="_blank" rel="noopener noreferrer">edgeever</a>
+  </td>
+  <td>AI-native knowledge base & Evernote/Obsidian alternative with instant sync & native MCP. Free on Cloudflare or self-hosted via Docker.</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/peach-mitao/peach" target="_blank" rel="noopener noreferrer">peach</a>
   </td>
   <td>Peach 蜜桃：单用户、本地优先的个人媒体系统 · Single-user, local-first personal media system</td>
@@ -108,12 +114,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/yang0/handraw-style" target="_blank" rel="noopener noreferrer">handraw-style</a>
   </td>
   <td>手绘风格编号画廊与双语提示词 Skill</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/yanliudesign/mono-color-skill" target="_blank" rel="noopener noreferrer">mono-color-skill</a>
-  </td>
-  <td>One-ink editorial print image skill — warm paper, halftone photography, active negative space, and restrained typography.</td>
 </tr>
 </table>
 
