@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-10-27 10:35:15
+                      2026-10-28 10:44:14
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -89,7 +89,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
   <td>
     <a href="https://github.com/peach-mitao/peach" target="_blank" rel="noopener noreferrer">peach</a>
   </td>
-  <td>Peach 蜜桃：单用户、本地优先的个人媒体系统 · Single-user, local-first personal media system</td>
+  <td>Peach: Local-first video metadata scraper and media manager.</td>
 </tr>
 <tr>
   <td>
