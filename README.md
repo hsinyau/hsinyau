@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-11-05 11:53:09
+                      2026-11-06 11:51:15
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/livliv-dev/player" target="_blank" rel="noopener noreferrer">player</a>
+  </td>
+  <td>A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/tianma-if/edgeever" target="_blank" rel="noopener noreferrer">edgeever</a>
   </td>
   <td>AI-native knowledge base & Evernote/Obsidian alternative with instant sync & native MCP. Free on Cloudflare or self-hosted via Docker.</td>
@@ -108,12 +114,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/egoist/mygo" target="_blank" rel="noopener noreferrer">mygo</a>
   </td>
   <td>Develop desktop apps with native UI or web frontend in Go</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/yang0/handraw-style" target="_blank" rel="noopener noreferrer">handraw-style</a>
-  </td>
-  <td>手绘风格编号画廊与双语提示词 Skill</td>
 </tr>
 </table>
 
