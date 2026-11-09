@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-11-08 10:53:32
+                      2026-11-09 11:13:35
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -89,7 +89,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
   <td>
     <a href="https://github.com/tianma-if/edgeever" target="_blank" rel="noopener noreferrer">edgeever</a>
   </td>
-  <td>AI-native knowledge base & Evernote/Obsidian alternative with instant sync & native MCP. Free on Cloudflare or self-hosted via Docker.</td>
+  <td>AI-native knowledge base & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.</td>
 </tr>
 <tr>
   <td>
