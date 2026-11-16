@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-11-15 11:22:49
+                      2026-11-16 11:24:15
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/pengchujin/aerial-tv" target="_blank" rel="noopener noreferrer">aerial-tv</a>
+  </td>
+  <td>给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/livliv-dev/player" target="_blank" rel="noopener noreferrer">player</a>
   </td>
   <td>A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.</td>
@@ -108,12 +114,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/gkurt/tegaki" target="_blank" rel="noopener noreferrer">tegaki</a>
   </td>
   <td>Handwriting animation for the web. Supports any font or text.</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/egoist/mygo" target="_blank" rel="noopener noreferrer">mygo</a>
-  </td>
-  <td>Develop desktop apps with native UI or web frontend in Go</td>
 </tr>
 </table>
 
