@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-11-16 11:24:15
+                      2026-11-17 13:24:11
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/GoogleChrome/modern-web-guidance" target="_blank" rel="noopener noreferrer">modern-web-guidance</a>
+  </td>
+  <td>Keep your coding agent up to date with the latest web best practices</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/pengchujin/aerial-tv" target="_blank" rel="noopener noreferrer">aerial-tv</a>
   </td>
   <td>给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.</td>
@@ -95,7 +101,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
   <td>
     <a href="https://github.com/tianma-if/edgeever" target="_blank" rel="noopener noreferrer">edgeever</a>
   </td>
-  <td>AI-native knowledge base & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.</td>
+  <td>AI-native note-taking app & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.</td>
 </tr>
 <tr>
   <td>
@@ -108,12 +114,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/stackedlol/ascii-sharks" target="_blank" rel="noopener noreferrer">ascii-sharks</a>
   </td>
   <td>ascii shark components in typescript</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/gkurt/tegaki" target="_blank" rel="noopener noreferrer">tegaki</a>
-  </td>
-  <td>Handwriting animation for the web. Supports any font or text.</td>
 </tr>
 </table>
 
