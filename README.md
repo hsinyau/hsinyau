@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-11-18 12:51:02
+                      2026-11-19 12:42:15
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/op7418/Humanizer-zh" target="_blank" rel="noopener noreferrer">Humanizer-zh</a>
+  </td>
+  <td>Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/GoogleChrome/modern-web-guidance" target="_blank" rel="noopener noreferrer">modern-web-guidance</a>
   </td>
   <td>Keep your coding agent up to date with the latest web best practices</td>
@@ -108,12 +114,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/peach-mitao/peach" target="_blank" rel="noopener noreferrer">peach</a>
   </td>
   <td>Peach: Local-first video metadata scraper and media manager.</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/stackedlol/ascii-sharks" target="_blank" rel="noopener noreferrer">ascii-sharks</a>
-  </td>
-  <td>ascii shark components in typescript</td>
 </tr>
 </table>
 
