@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-11-24 15:15:05
+                      2026-11-25 13:48:31
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/experientiallabs/experiential" target="_blank" rel="noopener noreferrer">experiential</a>
+  </td>
+  <td>Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own.</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/op7418/Humanizer-zh" target="_blank" rel="noopener noreferrer">Humanizer-zh</a>
   </td>
   <td>Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。</td>
@@ -108,12 +114,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/tianma-if/edgeever" target="_blank" rel="noopener noreferrer">edgeever</a>
   </td>
   <td>AI-native note-taking app & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/peach-mitao/peach" target="_blank" rel="noopener noreferrer">peach</a>
-  </td>
-  <td>Peach: Local-first video metadata scraper and media manager.</td>
 </tr>
 </table>
 
