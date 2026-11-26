@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-11-25 13:48:31
+                      2026-11-26 13:39:09
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/finktheartist/sakuga-vfx" target="_blank" rel="noopener noreferrer">sakuga-vfx</a>
+  </td>
+  <td>Twelve ordinary UI controls that react like anime. One file each, no dependencies.</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/experientiallabs/experiential" target="_blank" rel="noopener noreferrer">experiential</a>
   </td>
   <td>Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own.</td>
@@ -108,12 +114,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/livliv-dev/player" target="_blank" rel="noopener noreferrer">player</a>
   </td>
   <td>A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/tianma-if/edgeever" target="_blank" rel="noopener noreferrer">edgeever</a>
-  </td>
-  <td>AI-native note-taking app & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.</td>
 </tr>
 </table>
 
