@@ -31,7 +31,7 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 └───────────────────────────────────────────────────────────────────┘
 
 ┌────────────────────────────Update At──────────────────────────────┐
-                      2026-11-26 13:39:09
+                      2026-11-27 13:32:40
 └───────────────────────────────────────────────────────────────────┘
 ```
 
@@ -81,6 +81,12 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
 <table>
 <tr>
   <td>
+    <a href="https://github.com/AdityaKodez/trazo" target="_blank" rel="noopener noreferrer">trazo</a>
+  </td>
+  <td>Hand-drawn crayon sticker SVGs for React and the web.</td>
+</tr>
+<tr>
+  <td>
     <a href="https://github.com/finktheartist/sakuga-vfx" target="_blank" rel="noopener noreferrer">sakuga-vfx</a>
   </td>
   <td>Twelve ordinary UI controls that react like anime. One file each, no dependencies.</td>
@@ -108,12 +114,6 @@ CSS        32 mins        ▋░░░░░░░░░░░░░░░░░
     <a href="https://github.com/pengchujin/aerial-tv" target="_blank" rel="noopener noreferrer">aerial-tv</a>
   </td>
   <td>给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.</td>
-</tr>
-<tr>
-  <td>
-    <a href="https://github.com/livliv-dev/player" target="_blank" rel="noopener noreferrer">player</a>
-  </td>
-  <td>A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.</td>
 </tr>
 </table>
 
